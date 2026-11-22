@@ -57,6 +57,16 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Next milestone for each plant; suggest a new plant |
 | Cadence | Daily rewards, weekly care |
 
+## Animation and tone
+
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+
+- When a plant's in-app health hits zero: slow-motion wilt, petals fall, a tiny violin plays and the screen screams 'NOOOOOOO!!!! NOT CYPHICUS!!!!'. Then 'Revive with gems?' and Cyphicus gasps back to life
+- Over-watered: the plant pops up wearing a snorkel ('glug glug, I'm drowning')
+- New leaf: the plant does a little victory dance; one year together: a birthday party with a tiny cake
+
+**Line we don't cross:** Never claims the user's real plant has died: it's the plant's in-app health, and there's always a way to revive it.
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
