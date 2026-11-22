@@ -35,7 +35,7 @@ Every plant gets its own profile: type, nickname, care schedule and a growth por
 | Premium | £1.99/month or £12.99 lifetime: unlimited plants, full growth portfolio, cloud photo backup, sharing |
 | Affiliate | Plant-care products, clearly labelled |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -70,6 +70,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app.
 - **Data:** On the device; photos compressed and stored on the phone, with cloud backup as a premium feature so storage is paid for by the people who use it.
+- **Backend:** None for the free version: everything lives on the phone. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
