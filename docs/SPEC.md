@@ -1,37 +1,38 @@
 # Thirsty: Spec
 
-**Keep your plants alive** · #15 of 33 in the build order · Easy · Revenue potential: Low–medium · Family, Pets & Plants · Source: New (Claude)
+**Keep your plants alive, and watch them grow** · #4 of 33 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
 
 ## One-liner
 
-Add your plants, pick a type, and Thirsty reminds you when each one needs water or feeding. Log care in one tap and keep a photo diary of each plant growing.
+Every plant gets its own profile: type, nickname, care schedule and a growth portfolio of photos that turns into a time-lapse over the months. Thirsty reminds you when each plant needs water or food, you log care in one tap, and you earn gems for every care action and for each plant's own milestones (first new leaf, repotted, survived winter, one year together). Spend gems on pot styles, themes and streak freezes.
 
 ## Problem / audience
 
 - **Who it's for:** Houseplant owners, especially new ones who keep killing plants.
 - **The problem it solves:** People forget to water, or over-water because they can't remember when they last did.
-- **Example:** A user with eight plants gets a Sunday reminder for three of them, taps 'watered', and adds a monthly photo of their monstera.
+- **Example:** A user with eight plants gets a Sunday reminder for three, taps 'watered' and earns gems. Monty the monstera hits 'one year together' with nine new leaves, and the time-lapse gets shared to TikTok.
 
 ## MVP features (ship with only these)
 
-1. Plant list with care presets by type
-2. Watering and feeding reminders
-3. One-tap 'watered' log
-4. Photo diary per plant
-5. 'All plants happy' streak
+1. Plant profiles: type, nickname, care presets
+2. Watering and feeding reminders; one-tap 'watered' log
+3. Growth portfolio: monthly photo prompt per plant, building a timeline and time-lapse
+4. Per-plant milestones (first new leaf, repotted, 6 months, survived winter, 1 year)
+5. Gems for care actions and milestones, spent on pot styles, themes and streak freezes
 
 ## Not in MVP
 
 - Seasonal schedule adjustments
-- Household sharing
-- Care guides
+- Household sharing (both people water)
+- Care guides from trusted sources
+- Yearly 'your plants this year' recap
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
 | Free | Up to 5 plants, with ads |
-| Premium | £1.49/month or £7.99 lifetime: unlimited plants, photo diary, sharing |
+| Premium | £1.99/month or £12.99 lifetime: unlimited plants, full growth portfolio, cloud photo backup, sharing |
 | Affiliate | Plant-care products, clearly labelled |
 
 Prices are starting points; test before committing.
@@ -40,30 +41,35 @@ Prices are starting points; test before committing.
 
 | Stage | Design |
 |---|---|
-| Cue | Watering reminders |
-| Tiny win | Tap 'watered' |
-| Progress | Healthy-plant streak and photo timelines |
-| Share | Plant growth photos |
-| Next step | Suggest adding a new plant |
-| Cadence | Weekly |
+| Cue | Watering reminders and a daily gem check-in |
+| Tiny win | Tap 'watered' or add a photo |
+| Progress | Each plant's milestones, growth time-lapse, gems |
+| Share | Growth time-lapses and milestone cards |
+| Next step | Next milestone for each plant; suggest a new plant |
+| Cadence | Daily rewards, weekly care |
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
+
 ## Platform & data
 
 - **Platform:** Expo app.
-- **Data:** On the device only.
+- **Data:** On the device; photos compressed and stored on the phone, with cloud backup as a premium feature so storage is paid for by the people who use it.
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
 
 - **Content pillars:** Plant care tips; Plant glow-ups; Beginner plants
-- **Shareable output:** Plant growth photos
+- **Shareable output:** Growth time-lapses and milestone cards
 
 ## Risks
 
-Care advice must stay general; never promise plant health.
+Care advice must stay general; never promise plant health. Photos can add up, so compress them and keep cloud backup premium-only.
 
 ## Launch checklist
 
