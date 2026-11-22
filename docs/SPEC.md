@@ -51,13 +51,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects, comic tragedy ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
+**Full drama.** Duolingo-style theatrics: characters, big over-the-top reactions, sound effects. Thirsty's plant death is the only animation that takes over the full screen ('NOOOOOOO!!!! NOT CYPHICUS!!!!').
 
-- When a plant's in-app health hits zero: slow-motion wilt, petals fall, a tiny violin plays and the screen screams 'NOOOOOOO!!!! NOT CYPHICUS!!!!'. Then 'Revive with gems?' and Cyphicus gasps back to life
+- Plant health hits zero: the ONE full-screen moment: slow-motion wilt, tiny violin, 'NOOOOOOO!!!! NOT CYPHICUS!!!!', then revive with gems
 - Over-watered: the plant pops up wearing a snorkel ('glug glug, I'm drowning')
-- New leaf: the plant does a little victory dance; one year together: a birthday party with a tiny cake
+- New leaf milestone: the plant does a victory dance as the leaf unfurls with a 'ta-da'
+- Watered on time: the plant gulps it down and burps a tiny bubble
+- One year together: birthday party, tiny cake, the plant in a party hat
 
 **Line we don't cross:** Never claims the user's real plant has died: it's the plant's in-app health, and there's always a way to revive it.
 
