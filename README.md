@@ -43,6 +43,8 @@ Houseplant owners, especially new ones who keep killing plants.
 | Premium | £1.99/month or £12.99 lifetime: unlimited plants, full growth portfolio, cloud photo backup, sharing |
 | Affiliate | Plant-care products, clearly labelled |
 
+**Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
+
 ## Why people come back
 
 Built on **The Progression Loop**, the portfolio's shared retention framework
