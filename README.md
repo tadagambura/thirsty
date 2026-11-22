@@ -1,16 +1,16 @@
 # Thirsty
 
-**Keep your plants alive**
+**Keep your plants alive, and watch them grow**
 
-> #15 of 33 in the build order · Easy · Revenue potential: Low–medium · Family, Pets & Plants
+> #4 of 33 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
-Add your plants, pick a type, and Thirsty reminds you when each one needs water or feeding. Log care in one tap and keep a photo diary of each plant growing.
+Every plant gets its own profile: type, nickname, care schedule and a growth portfolio of photos that turns into a time-lapse over the months. Thirsty reminds you when each plant needs water or food, you log care in one tap, and you earn gems for every care action and for each plant's own milestones (first new leaf, repotted, survived winter, one year together). Spend gems on pot styles, themes and streak freezes.
 
 ## Why it's in the portfolio
 
-PlantTok is a large, friendly audience, the care schedule gives natural weekly retention, and the app is simple to build. Plant-care products are an honest affiliate fit.
+Plants don't get 'finished', so the app never becomes disposable, and every month it's kept the growth portfolio becomes more valuable to the user. Daily rewards plus weekly care give a reason to open it every day. PlantTok is a huge, friendly audience, the growth time-lapses are made for sharing, and the app is simple to build.
 
 ## Who it's for
 
@@ -20,26 +20,27 @@ Houseplant owners, especially new ones who keep killing plants.
 
 ## Version one
 
-- Plant list with care presets by type
-- Watering and feeding reminders
-- One-tap 'watered' log
-- Photo diary per plant
-- 'All plants happy' streak
+- Plant profiles: type, nickname, care presets
+- Watering and feeding reminders; one-tap 'watered' log
+- Growth portfolio: monthly photo prompt per plant, building a timeline and time-lapse
+- Per-plant milestones (first new leaf, repotted, 6 months, survived winter, 1 year)
+- Gems for care actions and milestones, spent on pot styles, themes and streak freezes
 
-**Example:** A user with eight plants gets a Sunday reminder for three of them, taps 'watered', and adds a monthly photo of their monstera.
+**Example:** A user with eight plants gets a Sunday reminder for three, taps 'watered' and earns gems. Monty the monstera hits 'one year together' with nine new leaves, and the time-lapse gets shared to TikTok.
 
 ## Later
 
 - Seasonal schedule adjustments
-- Household sharing
-- Care guides
+- Household sharing (both people water)
+- Care guides from trusted sources
+- Yearly 'your plants this year' recap
 
 ## How it makes money
 
 | Model | Detail |
 |---|---|
 | Free | Up to 5 plants, with ads |
-| Premium | £1.49/month or £7.99 lifetime: unlimited plants, photo diary, sharing |
+| Premium | £1.99/month or £12.99 lifetime: unlimited plants, full growth portfolio, cloud photo backup, sharing |
 | Affiliate | Plant-care products, clearly labelled |
 
 ## Why people come back
@@ -49,16 +50,20 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 
 | Stage | In Thirsty |
 |---|---|
-| Cue | Watering reminders |
-| Tiny win | Tap 'watered' |
-| Progress | Healthy-plant streak and photo timelines |
-| Share | Plant growth photos |
-| Next step | Suggest adding a new plant |
-| Cadence | Weekly |
+| Cue | Watering reminders and a daily gem check-in |
+| Tiny win | Tap 'watered' or add a photo |
+| Progress | Each plant's milestones, growth time-lapse, gems |
+| Share | Growth time-lapses and milestone cards |
+| Next step | Next milestone for each plant; suggest a new plant |
+| Cadence | Daily rewards, weekly care |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
-Care advice must stay general; never promise plant health.
+Care advice must stay general; never promise plant health. Photos can add up, so compress them and keep cloud backup premium-only.
 
 ## Status
 
