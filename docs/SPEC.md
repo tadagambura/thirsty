@@ -1,6 +1,6 @@
 # Thirsty: Spec
 
-**Keep your plants alive, and watch them grow** · #4 of 33 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
+**Keep your plants alive, and watch them grow** · #4 of 32 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants · Source: New (Claude)
 
 ## One-liner
 

@@ -2,7 +2,7 @@
 
 **Keep your plants alive, and watch them grow**
 
-> #4 of 33 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants
+> #4 of 32 · Wave 1: Daily keepers · Used: Daily rewards, weekly care · Easy · Revenue potential: Medium · Family, Pets & Plants
 
 ## What it is
 
@@ -85,5 +85,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 32 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
