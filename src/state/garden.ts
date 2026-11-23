@@ -20,6 +20,7 @@ type GardenState = {
   event: (id: string, kind: Event['kind']) => void;
   revive: (id: string) => boolean;
   mourn: (id: string) => void;
+  play: (id: string, kind: string) => void;
   remove: (id: string) => Plant | undefined;
   restore: (p: Plant) => void;
 };
@@ -62,6 +63,7 @@ export const useGarden = persisted<GardenState>('thirsty.garden', 1, (set, get) 
     return true;
   },
   mourn: (id) => set((s) => ({ mourned: { ...s.mourned, [id]: todayKey() } })),
+  play: (id, kind) => set((s) => ({ plants: s.plants.map((p) => (p.id === id ? { ...p, plays: [...(p.plays ?? []), { day: todayKey(), kind }].slice(-200) } : p)) })),
   remove: (id) => {
     const p = get().plants.find((x) => x.id === id);
     set((s) => ({ plants: s.plants.filter((x) => x.id !== id) }));

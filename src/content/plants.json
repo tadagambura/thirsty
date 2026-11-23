@@ -1,0 +1,2813 @@
+{
+  "pack": "thirsty-plants-1",
+  "version": 1,
+  "checked": "2026-11-23",
+  "reviewed": false,
+  "plants": [
+    {
+      "id": "pothos",
+      "name": "Pothos (devil's ivy)",
+      "latin": "Epipremnum aureum",
+      "emoji": "🌿",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "General liquid houseplant feed, monthly, April–October",
+      "light": "Bright, indirect light; copes with some shade but direct summer sun scorches it",
+      "humidity": "medium",
+      "temperature": "18–30°C; keep away from cold draughts and radiators",
+      "soil": "Peat-free houseplant compost, or 3 parts ericaceous peat-free compost, 1 part grit and 1 part orchid bark",
+      "toxicToPets": true,
+      "personality": "Easy-going and adaptable. You thrive anywhere and so do your plants.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water only when the compost is nearly dry. Overwatering is the most common pothos problem."
+        },
+        {
+          "symptom": "Variegation fading to plain green, slow growth",
+          "cause": "Too little light",
+          "fix": "Move it to a brighter spot with indirect light, such as near an east- or west-facing window."
+        },
+        {
+          "symptom": "Crispy leaf tips",
+          "cause": "Dry air, often from central heating",
+          "fix": "Mist now and then or stand it on a tray of damp gravel, away from radiators."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "Pale, yellowing older leaves and slow growth in spring or summer",
+          "cause": "Possible nitrogen shortage once the compost runs out of nutrients",
+          "fix": "Rule out overwatering first, then feed with a general houseplant feed once a month during the growing season, or repot into fresh compost."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow epipremnum",
+        "url": "https://www.rhs.org.uk/plants/epipremnum/growing-guide"
+      }
+    },
+    {
+      "id": "snake-plant",
+      "name": "Snake plant",
+      "latin": "Dracaena trifasciata (syn. Sansevieria trifasciata)",
+      "emoji": "🐍",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 30,
+      "feedEvery": 30,
+      "feedWhat": "Liquid houseplant or cactus feed, monthly, April–September",
+      "light": "Anything from bright, lightly shaded spots to fairly low light; avoid midday summer sun",
+      "humidity": "low",
+      "temperature": "15–24°C; always keep above 10°C",
+      "soil": "Free-draining peat-free cactus compost, or 2 parts peat-free loam-based compost to 1 part grit",
+      "toxicToPets": true,
+      "personality": "Unbothered and low-drama. You water when it's needed, not when you're anxious.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Leaves flopping over",
+          "cause": "Very low light, especially in tall types",
+          "fix": "Give it a brighter spot and support floppy leaves with a cane and soft string."
+        },
+        {
+          "symptom": "Water collecting in the centre of the rosette",
+          "cause": "Watering over the top of the plant",
+          "fix": "Water around the edge of the compost, not into the middle, to avoid rot."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        },
+        {
+          "symptom": "Leaves collapsing with grubs in the compost",
+          "cause": "Vine weevil larvae eating the roots",
+          "fix": "Check the roots, pick out C-shaped white grubs and repot into fresh compost."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow sansevierias",
+        "url": "https://www.rhs.org.uk/plants/sansevieria/growing-guide"
+      }
+    },
+    {
+      "id": "spider-plant",
+      "name": "Spider plant",
+      "latin": "Chlorophytum comosum",
+      "emoji": "🕷️",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 60,
+      "feedWhat": "Usually none needed if repotted regularly; otherwise balanced liquid feed every other month, April–September",
+      "light": "Bright, indirect light; tolerates low light but variegation may fade",
+      "humidity": "low",
+      "temperature": "Normal room temperatures; keep above about 10°C",
+      "soil": "Peat-free multi-purpose or houseplant compost",
+      "toxicToPets": false,
+      "personality": "Generous and nurturing. You're the friend who hands out baby plants.",
+      "problems": [
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Yellowing leaves",
+          "cause": "Usually too little light, rather than a nutrient problem",
+          "fix": "Move it somewhere brighter first. If yellowing continues, give a balanced feed every other month in the growing season."
+        },
+        {
+          "symptom": "Pale, dull, limp leaves",
+          "cause": "Thirst",
+          "fix": "Give it a thorough drink; it should perk up quickly."
+        },
+        {
+          "symptom": "Losing vigour, roots bursting out of the pot",
+          "cause": "Pot-bound",
+          "fix": "Repot into fresh compost in a slightly larger pot, or pot up the babies and start again."
+        },
+        {
+          "symptom": "Sticky, distorted new growth",
+          "cause": "Aphids",
+          "fix": "Wash them off under the tap as soon as you spot them."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow spider plants",
+        "url": "https://www.rhs.org.uk/plants/spider-plants/growing-guide"
+      }
+    },
+    {
+      "id": "peace-lily",
+      "name": "Peace lily",
+      "latin": "Spathiphyllum wallisii",
+      "emoji": "🕊️",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 5,
+      "winterWaterEvery": 10,
+      "feedEvery": 21,
+      "feedWhat": "General liquid feed every few weeks, April–October",
+      "light": "Bright, indirect light; tolerates shade but flowers poorly there",
+      "humidity": "medium",
+      "temperature": "12–24°C; away from radiators and cold draughts",
+      "soil": "Peat-free multi-purpose compost mixed about 3:1 with perlite or grit",
+      "toxicToPets": true,
+      "personality": "Dramatic but forgiving. You faint when ignored and bounce back after one kind gesture.",
+      "problems": [
+        {
+          "symptom": "Whole plant drooping",
+          "cause": "Thirst",
+          "fix": "Water thoroughly and it should stand up again within hours."
+        },
+        {
+          "symptom": "Yellow or brown leaves, mushy roots",
+          "cause": "Compost kept too wet, especially in winter",
+          "fix": "Let the top of the compost dry between waterings and water less in winter."
+        },
+        {
+          "symptom": "Brown leaf edges",
+          "cause": "Dry air or fluoride in tap water",
+          "fix": "Use rainwater or filtered water and stand it on a tray of damp gravel."
+        },
+        {
+          "symptom": "No flowers",
+          "cause": "Too little light",
+          "fix": "Move it to bright, indirect light, but keep it out of direct summer sun."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow peace lilies",
+        "url": "https://www.rhs.org.uk/plants/peace-lilies/how-to-grow-peace-lilies"
+      }
+    },
+    {
+      "id": "monstera",
+      "name": "Swiss cheese plant",
+      "latin": "Monstera deliciosa",
+      "emoji": "🧀",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, about monthly, April–September",
+      "light": "Bright, indirect or filtered light; low light means fewer leaf holes",
+      "humidity": "medium",
+      "temperature": "18–25°C all year; away from radiators and draughts",
+      "soil": "Open, slightly acidic mix: 1 part peat-free ericaceous compost to 2 parts orchid compost",
+      "toxicToPets": true,
+      "personality": "Big-hearted and a little bit extra. You like room to grow.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Brown, crispy leaf edges",
+          "cause": "Dry air, often from central heating",
+          "fix": "Group it with other plants, use a damp gravel tray and keep it away from radiators."
+        },
+        {
+          "symptom": "New leaves with no holes",
+          "cause": "Low light or a young plant",
+          "fix": "Give it brighter indirect light and a moss pole to climb. Holes usually come with maturity."
+        },
+        {
+          "symptom": "Pale, yellowing older leaves and slow growth in spring or summer",
+          "cause": "Possible nitrogen shortage once the compost runs out of nutrients",
+          "fix": "Rule out overwatering first, then feed with a balanced liquid feed during the growing season, or repot into fresh compost."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow Swiss cheese plants",
+        "url": "https://www.rhs.org.uk/plants/swiss-cheese-plants/how-to-grow-swiss-cheese-plants"
+      }
+    },
+    {
+      "id": "zz-plant",
+      "name": "ZZ plant",
+      "latin": "Zamioculcas zamiifolia",
+      "emoji": "🪴",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 28,
+      "feedEvery": 30,
+      "feedWhat": "Half-strength liquid houseplant feed, April–September; underfeed rather than overfeed",
+      "light": "Low to bright, indirect light; strong direct sun damages leaves",
+      "humidity": "low",
+      "temperature": "15–24°C; minimum about 15°C",
+      "soil": "Well-drained potting mix",
+      "toxicToPets": true,
+      "personality": "Quietly unstoppable. Neglect is just a long weekend to you.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves and soft stems",
+          "cause": "Overwatering; the rhizomes store water",
+          "fix": "Let the compost dry out completely before watering. Underwatering is safer than overwatering."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Dropping leaflets",
+          "cause": "Left bone-dry for a long time",
+          "fix": "It can drop leaves to survive drought. Water thoroughly and new shoots should follow."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        }
+      ],
+      "source": {
+        "name": "RHS: Zamioculcas zamiifolia",
+        "url": "https://www.rhs.org.uk/plants/19185/zamioculcas-zamiifolia/details"
+      }
+    },
+    {
+      "id": "aloe-vera",
+      "name": "Aloe vera",
+      "latin": "Aloe vera",
+      "emoji": "🌵",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 30,
+      "feedEvery": 120,
+      "feedWhat": "Half-strength general liquid feed, just twice a year: once in spring and once in late summer",
+      "light": "Bright light, such as a south- or west-facing window; harsh direct sun can brown it",
+      "humidity": "low",
+      "temperature": "13–27°C; never let it freeze",
+      "soil": "Peat-free cactus or succulent compost in a pot with drainage holes",
+      "toxicToPets": true,
+      "personality": "Practical and soothing. You're the calm one in a crisis.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the aloe out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Soft, see-through or mushy leaves",
+          "cause": "Overwatering, sometimes with misting or humid air",
+          "fix": "Water deeply but rarely, let the compost dry fully, and never mist it."
+        },
+        {
+          "symptom": "Brown or reddish leaves",
+          "cause": "Harsh direct sun",
+          "fix": "Move it slightly back from the window or behind a sheer curtain in summer."
+        },
+        {
+          "symptom": "Thin, pale, stretched growth",
+          "cause": "Not enough light",
+          "fix": "Give it the brightest windowsill you have."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: light-loving houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-sunlight"
+      }
+    },
+    {
+      "id": "jade-plant",
+      "name": "Jade plant",
+      "latin": "Crassula ovata",
+      "emoji": "💰",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 30,
+      "feedEvery": 30,
+      "feedWhat": "General liquid feed, monthly, spring to summer; none in autumn and winter",
+      "light": "Full light; a south- or west-facing windowsill with around 5 hours of light",
+      "humidity": "low",
+      "temperature": "18–24°C by day, cooler at night; not below 10°C",
+      "soil": "Peat-free cactus or succulent compost",
+      "toxicToPets": true,
+      "personality": "Steady and prosperous. You play the long game.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the jade plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Wrinkled, soft leaves",
+          "cause": "Thirst, especially in summer",
+          "fix": "Water thoroughly, then let the compost dry out completely before the next drink."
+        },
+        {
+          "symptom": "Leggy stems with gaps between leaves",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: light-loving houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-sunlight"
+      }
+    },
+    {
+      "id": "rubber-plant",
+      "name": "Rubber plant",
+      "latin": "Ficus elastica",
+      "emoji": "🌳",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "High-nitrogen liquid feed for leafy growth, spring to late summer",
+      "light": "Bright, indirect light; a little morning or evening sun is fine",
+      "humidity": "medium",
+      "temperature": "Warm and even; keep above 10–13°C",
+      "soil": "Peat-free loam-based compost (such as John Innes No 3) with fine bark added",
+      "toxicToPets": true,
+      "personality": "Polished and confident. You like things glossy.",
+      "problems": [
+        {
+          "symptom": "Sudden leaf drop",
+          "cause": "Usually overwatering, but also cold, draughts or a move",
+          "fix": "Let the compost dry slightly between waterings and keep it in one warm, bright spot."
+        },
+        {
+          "symptom": "Yellow or dark-spotted leaves",
+          "cause": "Overwatering",
+          "fix": "Water less often and make sure the pot drains freely."
+        },
+        {
+          "symptom": "Small, pale new leaves",
+          "cause": "Not enough light",
+          "fix": "Move it somewhere brighter. Wipe dust off the leaves so they can use the light."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow ornamental figs",
+        "url": "https://www.rhs.org.uk/plants/ornamental-figs/growing-guide"
+      }
+    },
+    {
+      "id": "chinese-evergreen",
+      "name": "Chinese evergreen",
+      "latin": "Aglaonema",
+      "emoji": "🍃",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Half-strength liquid feed, April–September",
+      "light": "Low to medium indirect light; variegated types need brighter light",
+      "humidity": "medium",
+      "temperature": "18–24°C; away from draughts and heaters",
+      "soil": "Well-draining potting mix",
+      "toxicToPets": true,
+      "personality": "Calm and reliable. You make any corner feel finished.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water only when the top few centimetres are dry, and water less in winter."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 15°C. Cut off badly damaged leaves."
+        },
+        {
+          "symptom": "Brown leaf tips",
+          "cause": "Dry air",
+          "fix": "Raise humidity with a damp gravel tray or by grouping plants."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: low-light tolerant houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-shade"
+      }
+    },
+    {
+      "id": "boston-fern",
+      "name": "Boston fern",
+      "latin": "Nephrolepis exaltata 'Bostoniensis'",
+      "emoji": "🌿",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 3,
+      "winterWaterEvery": 7,
+      "feedEvery": 30,
+      "feedWhat": "Weak or diluted orchid feed, April–October",
+      "light": "Bright, indirect light; a bright bathroom is ideal",
+      "humidity": "high",
+      "temperature": "16–30°C; away from radiators and draughts",
+      "soil": "Free-draining, slightly acidic mix: 2 parts peat-free ericaceous compost, 1 part grit, 1 part orchid bark",
+      "toxicToPets": false,
+      "personality": "Lush and a little high-maintenance. You know what you need and you ask for it.",
+      "problems": [
+        {
+          "symptom": "Crispy brown fronds and leaf tips",
+          "cause": "Dry air",
+          "fix": "Mist regularly, group plants and use a tray of damp gravel, or move it to a steamy bathroom."
+        },
+        {
+          "symptom": "Brown fronds with damp compost",
+          "cause": "Overwatering; ferns rot if kept soggy",
+          "fix": "Check the compost before watering and only water when it starts to feel dry."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow epiphytic ferns",
+        "url": "https://www.rhs.org.uk/plants/epiphytic-ferns/how-to-grow-epiphytic-ferns"
+      }
+    },
+    {
+      "id": "heartleaf-philodendron",
+      "name": "Heartleaf philodendron",
+      "latin": "Philodendron hederaceum",
+      "emoji": "💚",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "General houseplant feed, April–September",
+      "light": "Bright, indirect light; low light causes leggy growth",
+      "humidity": "medium",
+      "temperature": "At least 15°C; away from radiators and cold draughts",
+      "soil": "Loose, free-draining, slightly acidic mix: 2 parts orchid compost to 1 part peat-free ericaceous compost",
+      "toxicToPets": true,
+      "personality": "Warm and easy to love. You make everyone feel at home.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves, then collapse",
+          "cause": "Overwatering or poor drainage causing root rot",
+          "fix": "Let the surface dry between waterings and make sure the pot drains."
+        },
+        {
+          "symptom": "Long bare stems with small, sparse leaves",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Pale, yellowing older leaves and slow growth in spring or summer",
+          "cause": "Possible nitrogen shortage once the compost runs out of nutrients",
+          "fix": "Rule out overwatering first, then feed with a balanced liquid houseplant feed during the growing season, or repot into fresh compost."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow philodendrons",
+        "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide"
+      }
+    },
+    {
+      "id": "dracaena",
+      "name": "Dragon tree",
+      "latin": "Dracaena marginata",
+      "emoji": "🐉",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 10,
+      "winterWaterEvery": 18,
+      "feedEvery": 30,
+      "feedWhat": "General liquid houseplant feed, April–October; don't overfeed",
+      "light": "Bright, indirect light, such as an east- or west-facing window",
+      "humidity": "medium",
+      "temperature": "18–30°C; away from draughts and radiators",
+      "soil": "Acidic, loam-free mix: 3 parts peat-free ericaceous compost, 1 part grit, 1 part orchid bark",
+      "toxicToPets": true,
+      "personality": "Sharp and architectural. You've got clean lines and strong opinions.",
+      "problems": [
+        {
+          "symptom": "Brown leaf tips",
+          "cause": "Fluoride or alkaline hard tap water, dry air or uneven watering",
+          "fix": "Water with rainwater or filtered water and check the compost before watering."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Mottled leaves and poor growth",
+          "cause": "Sap-sucking pests such as red spider mite, mealybug or scale",
+          "fix": "Check leaf undersides and stems, isolate the plant and treat early."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "White crust on the compost and brown leaf tips",
+          "cause": "Salt build-up from fertiliser and hard water",
+          "fix": "Scrape off the crust and flush the pot with plenty of water, letting it all drain away. Feed less strongly."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow dracaena",
+        "url": "https://www.rhs.org.uk/plants/dracaena/how-to-grow-dracaena"
+      }
+    },
+    {
+      "id": "calathea",
+      "name": "Calathea (prayer plant)",
+      "latin": "Goeppertia (Calathea) species",
+      "emoji": "🎨",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 5,
+      "winterWaterEvery": 9,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid houseplant feed once a month, April–September; none October–March",
+      "light": "Bright, indirect light; north- or east-facing in summer",
+      "humidity": "high",
+      "temperature": "16–21°C; no draughts, radiators or sudden changes",
+      "soil": "Peat-free houseplant compost, or peat-free multi-purpose with about 10% grit",
+      "toxicToPets": false,
+      "personality": "Expressive and sensitive. Your mood shows in your leaves.",
+      "problems": [
+        {
+          "symptom": "Brown, crispy leaf edges",
+          "cause": "Low humidity",
+          "fix": "Move it to a bathroom or stand it on a tray of wet gravel."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Water-soaked patches on leaves",
+          "cause": "Oedema from compost kept too wet, mostly in winter",
+          "fix": "Let the surface dry before watering in winter, but never let it dry out fully."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Tiny black flies around the pot",
+          "cause": "Fungus gnats breeding in damp compost",
+          "fix": "Let the surface dry out more between waterings and use yellow sticky traps. For a bad case, repot into fresh compost."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow calatheas",
+        "url": "https://www.rhs.org.uk/plants/calathea/growing-guide"
+      }
+    },
+    {
+      "id": "moth-orchid",
+      "name": "Moth orchid",
+      "latin": "Phalaenopsis",
+      "emoji": "🌸",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 10,
+      "feedEvery": 14,
+      "feedWhat": "Orchid feed, lightly and regularly in the growing season; plain water every fourth watering; little or none in winter",
+      "light": "Bright, indirect light; an east- or west-facing windowsill",
+      "humidity": "medium",
+      "temperature": "19–30°C by day, 16–19°C at night; always above 16°C",
+      "soil": "Bark-based orchid compost only, ideally in a clear pot",
+      "toxicToPets": false,
+      "personality": "Elegant and patient. You know good things come back around.",
+      "problems": [
+        {
+          "symptom": "Soft, brown, mushy roots",
+          "cause": "Overwatering or too big a pot",
+          "fix": "Trim dead roots, repot into fresh bark and let the roots almost dry between waterings."
+        },
+        {
+          "symptom": "Grey, shrivelled roots",
+          "cause": "Underwatering",
+          "fix": "Water about weekly in the growing season by soaking, then draining fully."
+        },
+        {
+          "symptom": "Won't flower again",
+          "cause": "Needs a cooler spell",
+          "fix": "Move it somewhere about 5°C cooler for a month or so."
+        },
+        {
+          "symptom": "Buds dropping",
+          "cause": "Cold draughts or sudden temperature swings",
+          "fix": "Keep it away from cold windows, radiators and doors."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow Phalaenopsis (moth orchids)",
+        "url": "https://www.rhs.org.uk/plants/phalaenopsis/growing-guide"
+      }
+    },
+    {
+      "id": "cactus",
+      "name": "Cactus",
+      "latin": "Cactaceae (many species)",
+      "emoji": "🌵",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 42,
+      "feedEvery": 30,
+      "feedWhat": "Potassium-rich liquid feed (cactus or tomato feed), monthly, April–September",
+      "light": "As much bright light as possible; a sunny windowsill",
+      "humidity": "low",
+      "temperature": "Warm in summer; a cool winter rest at about 8–10°C at night helps flowering",
+      "soil": "Very free-draining, gritty peat-free cactus compost, with a grit top-dressing",
+      "toxicToPets": false,
+      "personality": "Tough on the outside, soft on the inside. You need very little to shine.",
+      "problems": [
+        {
+          "symptom": "Soft, rotting base",
+          "cause": "Overwatering, especially in winter",
+          "fix": "Water only when the compost is dry in summer, and hardly at all from November to early March."
+        },
+        {
+          "symptom": "Shrivelling and slow growth",
+          "cause": "Underwatering in the growing season",
+          "fix": "Water thoroughly when the surface is dry from spring to late summer."
+        },
+        {
+          "symptom": "Thin, misshapen growth leaning to the light",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "Corky brown scabs",
+          "cause": "Too humid or a sudden jump in brightness",
+          "fix": "Improve airflow and change conditions gradually."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow houseplant cacti and succulents",
+        "url": "https://www.rhs.org.uk/plants/types/cacti-succulents/houseplants/growing-guide"
+      }
+    },
+    {
+      "id": "echeveria",
+      "name": "Echeveria",
+      "latin": "Echeveria",
+      "emoji": "🌹",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 14,
+      "winterWaterEvery": 28,
+      "feedEvery": 30,
+      "feedWhat": "Cactus or potassium-rich liquid feed, monthly, April–September",
+      "light": "Bright light; give it the sunniest spot you can",
+      "humidity": "low",
+      "temperature": "Keep above 10°C; cooler and drier in winter",
+      "soil": "Gritty, sharply draining peat-free cactus compost in a pot with plenty of holes",
+      "toxicToPets": false,
+      "personality": "Pretty, compact and composed. You keep it together.",
+      "problems": [
+        {
+          "symptom": "Rotting stem or leaves turning to mush",
+          "cause": "Overwatering or cold, wet compost",
+          "fix": "Water only when the compost is nearly dry and keep it drier in winter."
+        },
+        {
+          "symptom": "Stretched, spindly rosette",
+          "cause": "Kept too warm and wet in winter, or too little light",
+          "fix": "Give a cooler, drier winter rest and brighter light."
+        },
+        {
+          "symptom": "Shrivelling lower leaves in winter",
+          "cause": "Too dry for too long",
+          "fix": "Give a light drink every few weeks in winter."
+        },
+        {
+          "symptom": "Marks on leaves",
+          "cause": "Fluoride in tap water",
+          "fix": "Use rainwater where you can."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Echeveria plant guide",
+        "url": "https://www.rhs.org.uk/plants/echeveria"
+      }
+    },
+    {
+      "id": "basil",
+      "name": "Basil",
+      "latin": "Ocimum basilicum",
+      "emoji": "🌱",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 2,
+      "winterWaterEvery": 4,
+      "feedEvery": 14,
+      "feedWhat": "Balanced, organic-based liquid feed; avoid tomato feed, which pushes flowering",
+      "light": "Sunny windowsill with at least 6 hours of sun, or a grow light",
+      "humidity": "medium",
+      "temperature": "21–27°C by day; not below 10°C at night",
+      "soil": "Peat-free multi-purpose compost in a pot at least 20cm wide",
+      "toxicToPets": false,
+      "personality": "Warm, generous and a bit of a foodie. You share.",
+      "problems": [
+        {
+          "symptom": "Wilting, blackened stems at the base",
+          "cause": "Wet roots overnight",
+          "fix": "Water in the morning and keep the compost evenly moist, not soggy."
+        },
+        {
+          "symptom": "Leggy stems and fewer leaves",
+          "cause": "Flowering or too little light",
+          "fix": "Pinch out the tips and flower buds often, and give it more sun."
+        },
+        {
+          "symptom": "Pale, yellowing leaves",
+          "cause": "Nutrients used up in a small pot",
+          "fix": "Feed with a balanced liquid feed and move overcrowded supermarket plants into a bigger pot."
+        },
+        {
+          "symptom": "Grey fuzzy mould",
+          "cause": "Grey mould in still, damp air",
+          "fix": "Improve airflow and remove affected leaves."
+        },
+        {
+          "symptom": "Sticky, curled leaves",
+          "cause": "Aphids or whitefly",
+          "fix": "Rinse them off and check the undersides of leaves."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow basil",
+        "url": "https://www.rhs.org.uk/herbs/basil/grow-your-own"
+      }
+    },
+    {
+      "id": "mint",
+      "name": "Mint",
+      "latin": "Mentha",
+      "emoji": "🌿",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 3,
+      "winterWaterEvery": 5,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed in the growing season",
+      "light": "Sun or partial shade; a bright windowsill indoors",
+      "humidity": "medium",
+      "temperature": "Hardy; stems die back in winter",
+      "soil": "Peat-free multi-purpose or soil-based compost",
+      "toxicToPets": true,
+      "personality": "Lively and a bit unstoppable. You spread good vibes, fast.",
+      "problems": [
+        {
+          "symptom": "Dusty orange spots on leaves",
+          "cause": "Mint rust, a fungal disease",
+          "fix": "Cut off affected stems and bin them, and give the plant better airflow."
+        },
+        {
+          "symptom": "Wilting in a small pot",
+          "cause": "Compost drying out",
+          "fix": "Check often in warm weather and keep the compost evenly moist."
+        },
+        {
+          "symptom": "Tired, woody plant with fewer leaves",
+          "cause": "Crowded roots",
+          "fix": "Divide the clump in spring and replant a healthy piece in fresh compost."
+        },
+        {
+          "symptom": "Distorted, sticky shoots",
+          "cause": "Aphids",
+          "fix": "Rinse off and pick shoot tips often to keep growth fresh."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow mint",
+        "url": "https://www.rhs.org.uk/herbs/mint/grow-your-own"
+      }
+    },
+    {
+      "id": "parlour-palm",
+      "name": "Parlour palm",
+      "latin": "Chamaedorea elegans",
+      "emoji": "🌴",
+      "rarity": "common",
+      "free": true,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, spring to autumn",
+      "light": "Bright, indirect light; out of direct sun",
+      "humidity": "medium",
+      "temperature": "20–27°C in summer; tolerates about 13°C in winter",
+      "soil": "Light, fast-draining peat-free ericaceous compost with grit",
+      "toxicToPets": false,
+      "personality": "Classic and unfussy. You've got timeless taste.",
+      "problems": [
+        {
+          "symptom": "Brown leaves",
+          "cause": "Over- or underwatering, hard tap water or direct sun",
+          "fix": "Use rainwater, water when the surface is dry and keep it out of strong sun."
+        },
+        {
+          "symptom": "Crispy brown tips",
+          "cause": "Dry air",
+          "fix": "Mist regularly, which also keeps the fronds dust-free."
+        },
+        {
+          "symptom": "Poor growth and yellowing",
+          "cause": "Low light or overwatering",
+          "fix": "Give more light, check the roots and feed monthly in the growing season."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow chamaedorea",
+        "url": "https://www.rhs.org.uk/plants/chamaedorea/growing-guide"
+      }
+    },
+    {
+      "id": "fiddle-leaf-fig",
+      "name": "Fiddle-leaf fig",
+      "latin": "Ficus lyrata",
+      "emoji": "🎻",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "High-nitrogen liquid feed, spring to late summer",
+      "light": "Bright, indirect light; variegated forms need more",
+      "humidity": "medium",
+      "temperature": "Warm and steady; keep above 10–13°C",
+      "soil": "Peat-free loam-based compost with fine bark",
+      "toxicToPets": null,
+      "personality": "Stylish and particular. You don't like being moved and you're not sorry.",
+      "problems": [
+        {
+          "symptom": "Sudden leaf drop",
+          "cause": "Overwatering, cold, draughts or being moved",
+          "fix": "Pick one bright spot and leave it there. Let the compost dry slightly between waterings."
+        },
+        {
+          "symptom": "Brown spots or yellowing leaves",
+          "cause": "Overwatering",
+          "fix": "Water less often and make sure excess drains away."
+        },
+        {
+          "symptom": "Dry, shrivelled leaves",
+          "cause": "Low humidity, dry compost or too much direct sun",
+          "fix": "Use a damp gravel tray, water before the compost dries out fully, and filter strong sun."
+        },
+        {
+          "symptom": "Small, pale new leaves",
+          "cause": "Too little light or a pot-bound plant",
+          "fix": "Move it somewhere brighter and repot in spring if roots are crowded."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow ornamental figs",
+        "url": "https://www.rhs.org.uk/plants/ornamental-figs/growing-guide"
+      }
+    },
+    {
+      "id": "bird-of-paradise",
+      "name": "Bird of paradise",
+      "latin": "Strelitzia reginae",
+      "emoji": "🦜",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 5,
+      "winterWaterEvery": 14,
+      "feedEvery": 14,
+      "feedWhat": "Liquid houseplant feed every fortnight, spring and summer",
+      "light": "Plenty of bright light; a large sunny window or conservatory",
+      "humidity": "medium",
+      "temperature": "Warm all year; never below 10–12°C",
+      "soil": "Peat-free loam-based compost (such as John Innes No 3) with added grit",
+      "toxicToPets": true,
+      "personality": "Bold and ambitious. You're happy to wait years for a big moment.",
+      "problems": [
+        {
+          "symptom": "Brown leaf edges and tips",
+          "cause": "Dry air or uneven watering",
+          "fix": "Mist or use a damp gravel tray, and water regularly in summer."
+        },
+        {
+          "symptom": "No flowers",
+          "cause": "Too little light, too young or underfed",
+          "fix": "Give it the brightest spot you have and feed in spring and summer. Plants often need 5–10 years to flower."
+        },
+        {
+          "symptom": "Rotting roots",
+          "cause": "Compost kept wet in winter",
+          "fix": "From late November let the compost get fairly dry between waterings."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow strelitzia",
+        "url": "https://www.rhs.org.uk/plants/strelitzia/how-to-grow-strelitzia"
+      }
+    },
+    {
+      "id": "string-of-pearls",
+      "name": "String of pearls",
+      "latin": "Curio rowleyanus",
+      "emoji": "📿",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 14,
+      "winterWaterEvery": 30,
+      "feedEvery": 30,
+      "feedWhat": "Optional half-strength liquid feed, no more than monthly, April–September",
+      "light": "Bright light, such as an east- or west-facing window; shade from midday sun",
+      "humidity": "low",
+      "temperature": "10–25°C; no cold draughts or radiators",
+      "soil": "Free-draining peat-free cactus compost in terracotta",
+      "toxicToPets": true,
+      "personality": "Delicate but determined. You hang on beautifully.",
+      "problems": [
+        {
+          "symptom": "Mushy stems and shrivelled beads",
+          "cause": "Overwatering causing stem rot",
+          "fix": "Let the compost dry out between waterings and water very little in winter."
+        },
+        {
+          "symptom": "Beads shrivelling in winter",
+          "cause": "Thirst",
+          "fix": "Give a small drink just to stop the shrivelling."
+        },
+        {
+          "symptom": "Thin, sparse strands",
+          "cause": "Too little light",
+          "fix": "Move it to a brighter spot."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow string of beads",
+        "url": "https://www.rhs.org.uk/plants/string-of-beads/how-to-grow-string-of-beads"
+      }
+    },
+    {
+      "id": "string-of-hearts",
+      "name": "String of hearts",
+      "latin": "Ceropegia linearis subsp. woodii",
+      "emoji": "💞",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 14,
+      "winterWaterEvery": 28,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September; none in autumn and winter",
+      "light": "Bright, indirect or filtered light",
+      "humidity": "low",
+      "temperature": "15–27°C; avoid draughts",
+      "soil": "Well-draining succulent or cactus mix",
+      "toxicToPets": null,
+      "personality": "Romantic with a practical streak. You love from a sensible distance.",
+      "problems": [
+        {
+          "symptom": "Yellowing, mushy leaves",
+          "cause": "Overwatering",
+          "fix": "Let the compost dry out completely between waterings, and water less in winter."
+        },
+        {
+          "symptom": "Long, bare strands and pale leaves",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: light-loving houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-sunlight"
+      }
+    },
+    {
+      "id": "hoya-carnosa",
+      "name": "Wax plant",
+      "latin": "Hoya carnosa",
+      "emoji": "⭐",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 10,
+      "winterWaterEvery": 18,
+      "feedEvery": 14,
+      "feedWhat": "Balanced orchid feed, ideally urea-free, every couple of weeks in spring and summer; monthly in winter",
+      "light": "Bright light, shaded from hot summer sun",
+      "humidity": "medium",
+      "temperature": "16–24°C in summer; winter minimum 10°C",
+      "soil": "Airy mix: equal parts orchid bark, peat-free multi-purpose compost and grit or perlite",
+      "toxicToPets": false,
+      "personality": "Sweet and slow-blooming. You're worth the wait.",
+      "problems": [
+        {
+          "symptom": "Blackening, dropping leaves",
+          "cause": "Waterlogged compost or winter cold",
+          "fix": "Water less in winter and keep it above 10°C."
+        },
+        {
+          "symptom": "Wilting and stem dieback",
+          "cause": "Overwatering or overfeeding causing salt build-up",
+          "fix": "Flush the pot with plain water every few months and feed less."
+        },
+        {
+          "symptom": "No flowers",
+          "cause": "Too little light",
+          "fix": "Give it more light and don't cut off old flower stalks; they flower again."
+        },
+        {
+          "symptom": "Buds dropping",
+          "cause": "Compost too wet or too dry, or a change of position",
+          "fix": "Keep watering steady and don't move it once buds form."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow hoya",
+        "url": "https://www.rhs.org.uk/plants/hoya/how-to-grow"
+      }
+    },
+    {
+      "id": "hoya-kerrii",
+      "name": "Sweetheart hoya",
+      "latin": "Hoya kerrii",
+      "emoji": "💚",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 14,
+      "winterWaterEvery": 21,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, while growing",
+      "light": "Bright, indirect light, shaded from hot sun",
+      "humidity": "medium",
+      "temperature": "Minimum 10°C; happiest in a warm room",
+      "soil": "Fast-draining peat-free compost with extra organic matter",
+      "toxicToPets": false,
+      "personality": "A hopeless romantic. One leaf is enough to make you happy.",
+      "problems": [
+        {
+          "symptom": "Soft, wrinkled or yellow leaves",
+          "cause": "Overwatering",
+          "fix": "Water moderately in growth and keep it only just moist in winter."
+        },
+        {
+          "symptom": "Single leaf never grows",
+          "cause": "A leaf cutting with no stem node",
+          "fix": "Enjoy it as it is. Only cuttings with a stem section can grow vines."
+        },
+        {
+          "symptom": "Slow growth after repotting",
+          "cause": "Hoyas dislike being repotted",
+          "fix": "Leave it in the same pot for years and only move it up one size when needed."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Hoya kerrii",
+        "url": "https://www.rhs.org.uk/plants/83016/hoya-kerrii/details"
+      }
+    },
+    {
+      "id": "prayer-plant",
+      "name": "Prayer plant",
+      "latin": "Maranta leuconeura",
+      "emoji": "🙏",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 5,
+      "winterWaterEvery": 9,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, April–September",
+      "light": "Bright, filtered light",
+      "humidity": "high",
+      "temperature": "Above 15°C",
+      "soil": "Peat-free compost in a wide, shallow pot",
+      "toxicToPets": false,
+      "personality": "Thoughtful and rhythmical. You fold up at night like a good routine.",
+      "problems": [
+        {
+          "symptom": "Leaves curling inwards",
+          "cause": "Bright, dry conditions",
+          "fix": "Move out of direct sun and raise humidity with misting or a gravel tray."
+        },
+        {
+          "symptom": "Brown leaf edges",
+          "cause": "Dry air",
+          "fix": "Keep humidity high at all times."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Maranta leuconeura var. kerchoveana",
+        "url": "https://www.rhs.org.uk/plants/91332/maranta-leuconeura-var-kerchoveana/details"
+      }
+    },
+    {
+      "id": "chinese-money-plant",
+      "name": "Chinese money plant",
+      "latin": "Pilea peperomioides",
+      "emoji": "🪙",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 45,
+      "feedWhat": "Balanced liquid feed every month or two, April–September; don't overdo it",
+      "light": "Bright, indirect light near a north-, east- or west-facing window",
+      "humidity": "low",
+      "temperature": "Warm room; above 10°C",
+      "soil": "Peat-free multi-purpose compost",
+      "toxicToPets": null,
+      "personality": "Sociable and lucky. You collect friends and share pups.",
+      "problems": [
+        {
+          "symptom": "Yellowing between leaf veins",
+          "cause": "Nutrient shortage",
+          "fix": "Give a balanced houseplant feed through the growing season."
+        },
+        {
+          "symptom": "Red-brown flushed leaves",
+          "cause": "Too much direct sun",
+          "fix": "Move it out of direct sun."
+        },
+        {
+          "symptom": "Curling or puckered leaves",
+          "cause": "Too much or too little water, or low light",
+          "fix": "Water when the top few centimetres are dry and give it brighter light."
+        },
+        {
+          "symptom": "Leaning plant",
+          "cause": "Growing towards the light",
+          "fix": "Give the pot a quarter turn each time you water."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow pilea",
+        "url": "https://www.rhs.org.uk/plants/pilea/how-to-grow-pilea"
+      }
+    },
+    {
+      "id": "peperomia",
+      "name": "Peperomia",
+      "latin": "Peperomia obtusifolia",
+      "emoji": "🫛",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 10,
+      "winterWaterEvery": 18,
+      "feedEvery": 14,
+      "feedWhat": "Half-strength liquid feed every two weeks, April–October",
+      "light": "Bright, indirect or filtered light",
+      "humidity": "medium",
+      "temperature": "18–30°C; always above 10°C",
+      "soil": "Loose, free-draining mix: 2 parts peat-free ericaceous compost, 1 part grit, 1 part orchid bark",
+      "toxicToPets": false,
+      "personality": "Compact and cheerful. You do a lot with a small space.",
+      "problems": [
+        {
+          "symptom": "Yellowing, dropping leaves and eventual collapse",
+          "cause": "Root rot from overwatering",
+          "fix": "Let the compost partly dry between waterings and water less in winter."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Weak, straggly growth",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow peperomia",
+        "url": "https://www.rhs.org.uk/plants/peperomia/how-to-grow-peperomia"
+      }
+    },
+    {
+      "id": "tradescantia",
+      "name": "Tradescantia",
+      "latin": "Tradescantia zebrina",
+      "emoji": "🦓",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, while actively growing",
+      "light": "Bright, filtered light",
+      "humidity": "medium",
+      "temperature": "Keep above 10°C indoors",
+      "soil": "Peat-free loam-based potting compost",
+      "toxicToPets": true,
+      "personality": "Fast, colourful and a bit wild. You live in fast-forward.",
+      "problems": [
+        {
+          "symptom": "Long, bare stems and faded stripes",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "Plain green shoots taking over",
+          "cause": "Reversion",
+          "fix": "Pinch out plain green shoots so the striped growth stays."
+        },
+        {
+          "symptom": "Brown, crispy leaves",
+          "cause": "Dry compost",
+          "fix": "Water moderately while growing and sparingly in winter."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Silvery, dull patches on leaves",
+          "cause": "Thrips",
+          "fix": "Use blue sticky traps and wipe or rinse the leaves."
+        }
+      ],
+      "source": {
+        "name": "RHS: Tradescantia zebrina",
+        "url": "https://www.rhs.org.uk/plants/79575/tradescantia-zebrina/details"
+      }
+    },
+    {
+      "id": "cast-iron-plant",
+      "name": "Cast iron plant",
+      "latin": "Aspidistra elatior",
+      "emoji": "🛡️",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 10,
+      "winterWaterEvery": 21,
+      "feedEvery": 30,
+      "feedWhat": "Half-strength liquid feed, April–September",
+      "light": "Low to moderate light; copes with deep shade; avoid direct sun",
+      "humidity": "low",
+      "temperature": "7–27°C; protect from extreme cold",
+      "soil": "Well-draining potting mix",
+      "toxicToPets": false,
+      "personality": "Unshakeable. You've survived worse than a dark hallway.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "Yellowing leaves",
+          "cause": "Overwatering",
+          "fix": "Water only when the compost is dry to the touch."
+        },
+        {
+          "symptom": "Brown leaf tips",
+          "cause": "Dry compost or very dry air",
+          "fix": "Water a little more regularly in summer."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: low-light tolerant houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-shade"
+      }
+    },
+    {
+      "id": "kentia-palm",
+      "name": "Kentia palm",
+      "latin": "Howea forsteriana",
+      "emoji": "🌴",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September; reduce in autumn and winter",
+      "light": "Bright, indirect light; tolerates lower light well",
+      "humidity": "medium",
+      "temperature": "16–27°C; sensitive to cold and draughts",
+      "soil": "Well-draining potting mix",
+      "toxicToPets": false,
+      "personality": "Graceful and grown-up. You bring hotel-lobby energy.",
+      "problems": [
+        {
+          "symptom": "Yellowing fronds and soggy compost",
+          "cause": "Overwatering",
+          "fix": "Water when the top few centimetres are dry and less in winter."
+        },
+        {
+          "symptom": "Brown tips",
+          "cause": "Dry winter air",
+          "fix": "Raise humidity, especially when the heating is on."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: thirsty houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-humidity"
+      }
+    },
+    {
+      "id": "arrowhead-plant",
+      "name": "Arrowhead plant",
+      "latin": "Syngonium podophyllum",
+      "emoji": "➡️",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September",
+      "light": "Bright, indirect light; colour fades in low light",
+      "humidity": "medium",
+      "temperature": "18–27°C; not frost-tolerant",
+      "soil": "Well-draining potting mix in a pot with drainage holes",
+      "toxicToPets": true,
+      "personality": "Direct and adaptable. You always know where you're heading.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Faded leaf colour",
+          "cause": "Low light",
+          "fix": "Move it to brighter, indirect light."
+        },
+        {
+          "symptom": "Leggy, climbing stems",
+          "cause": "Natural habit",
+          "fix": "Pinch out tips to keep it bushy."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: thirsty houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-humidity"
+      }
+    },
+    {
+      "id": "flamingo-flower",
+      "name": "Flamingo flower",
+      "latin": "Anthurium andraeanum",
+      "emoji": "🦩",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "Half-strength liquid feed, April–September",
+      "light": "Bright, indirect light; too little light stops flowering",
+      "humidity": "high",
+      "temperature": "16–30°C; 10°C or below can kill it",
+      "soil": "Open, fast-draining, acidic peat-free mix",
+      "toxicToPets": true,
+      "personality": "Glamorous and confident. You always bring colour.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the anthurium out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "No new flowers",
+          "cause": "Too little light",
+          "fix": "Move it to bright, indirect light."
+        },
+        {
+          "symptom": "Scorched patches on leaves",
+          "cause": "Direct summer sun",
+          "fix": "Filter the light with a sheer curtain."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 16°C. Cut off badly damaged leaves."
+        }
+      ],
+      "source": {
+        "name": "RHS: Anthuriums plant guide",
+        "url": "https://www.rhs.org.uk/plants/anthuriums"
+      }
+    },
+    {
+      "id": "alocasia-polly",
+      "name": "Alocasia 'Polly'",
+      "latin": "Alocasia × amazonica 'Polly'",
+      "emoji": "🛡️",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "General liquid feed as per pack, April–October",
+      "light": "Bright, indirect light; strong sun scorches",
+      "humidity": "high",
+      "temperature": "Above 16°C in growth; never below 10°C",
+      "soil": "Peat-free houseplant compost, or peat-free multi-purpose with grit at about 3:1",
+      "toxicToPets": true,
+      "personality": "Striking and a touch dramatic. You go quiet in winter and come back stronger.",
+      "problems": [
+        {
+          "symptom": "Dropping leaves in winter",
+          "cause": "Natural winter rest",
+          "fix": "Water minimally and keep it warm. New leaves come in spring."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the alocasia out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Brown leaf edges and webbing",
+          "cause": "Dry air and red spider mite",
+          "fix": "Raise humidity with a gravel tray or humidifier and check leaf undersides."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 16°C. Cut off badly damaged leaves."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow alocasias",
+        "url": "https://www.rhs.org.uk/plants/alocasia/growing-guide"
+      }
+    },
+    {
+      "id": "venus-flytrap",
+      "name": "Venus flytrap",
+      "latin": "Dionaea muscipula",
+      "emoji": "🪤",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 2,
+      "winterWaterEvery": 4,
+      "feedEvery": 0,
+      "feedWhat": "Never feed with fertiliser; it catches a few insects a year by itself",
+      "light": "Full sun or a very bright spot; colour is best in sun",
+      "humidity": "medium",
+      "temperature": "Needs a cold winter rest; best kept outdoors or somewhere cool in winter",
+      "soil": "Peat-free carnivorous plant compost or sustainably sourced sphagnum moss",
+      "toxicToPets": false,
+      "personality": "Bold, quick-witted and a little bit feral. You bite back.",
+      "problems": [
+        {
+          "symptom": "Plant turning black and dying",
+          "cause": "Tap water, fertiliser or the wrong compost",
+          "fix": "Use only rainwater, never fertiliser, and repot into carnivorous plant compost in spring."
+        },
+        {
+          "symptom": "Traps going black",
+          "cause": "Being triggered for fun, or fed non-insect food",
+          "fix": "Don't poke the traps or feed it meat. Snip off black traps."
+        },
+        {
+          "symptom": "Weak growth after winter",
+          "cause": "No winter rest",
+          "fix": "Keep it cool from late autumn so it can rest, and expect growth again in spring."
+        },
+        {
+          "symptom": "Compost drying out",
+          "cause": "Not enough water in the tray",
+          "fix": "Stand it in about 1cm of rainwater in summer and about ½cm in winter."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to care for your Venus fly trap",
+        "url": "https://www.rhs.org.uk/garden-inspiration/plants-we-love/caring-for-a-venus-fly-trap"
+      }
+    },
+    {
+      "id": "birds-nest-fern",
+      "name": "Bird's nest fern",
+      "latin": "Asplenium nidus",
+      "emoji": "🪺",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 5,
+      "winterWaterEvery": 9,
+      "feedEvery": 30,
+      "feedWhat": "Weak or diluted orchid feed, April–October",
+      "light": "Bright, indirect light; a bright bathroom suits it",
+      "humidity": "high",
+      "temperature": "16–30°C; sensitive to cold and draughts",
+      "soil": "Free-draining, slightly acidic mix or orchid compost",
+      "toxicToPets": null,
+      "personality": "Cosy and protective. You build a nest wherever you go.",
+      "problems": [
+        {
+          "symptom": "Brown fronds with wet compost",
+          "cause": "Overwatering",
+          "fix": "Only water when the compost starts to feel dry, and avoid pouring into the centre."
+        },
+        {
+          "symptom": "Crispy edges",
+          "cause": "Low humidity",
+          "fix": "Mist and group plants, or use a damp gravel tray."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow epiphytic ferns",
+        "url": "https://www.rhs.org.uk/plants/epiphytic-ferns/how-to-grow-epiphytic-ferns"
+      }
+    },
+    {
+      "id": "nerve-plant",
+      "name": "Nerve plant",
+      "latin": "Fittonia",
+      "emoji": "🕸️",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 3,
+      "winterWaterEvery": 6,
+      "feedEvery": 75,
+      "feedWhat": "Half-strength general or houseplant feed every 2–3 months",
+      "light": "Bright light out of direct sun; a north- or east-facing window",
+      "humidity": "high",
+      "temperature": "At least 15°C; best above 17°C",
+      "soil": "Moisture-retentive peat-free houseplant or multi-purpose compost",
+      "toxicToPets": false,
+      "personality": "Expressive and honest. You faint dramatically, then forgive instantly.",
+      "problems": [
+        {
+          "symptom": "Sudden collapse",
+          "cause": "Thirst",
+          "fix": "Water thoroughly; it usually recovers if caught quickly."
+        },
+        {
+          "symptom": "Crispy, brown leaves",
+          "cause": "Low humidity, radiator heat or direct sun",
+          "fix": "Move away from heat and sun, and grow it in a terrarium or on a damp gravel tray."
+        },
+        {
+          "symptom": "Yellowing leaves",
+          "cause": "Too little light",
+          "fix": "Move it to a brighter spot."
+        },
+        {
+          "symptom": "Grey fuzzy mould",
+          "cause": "Very humid, still air",
+          "fix": "Remove affected parts and improve airflow."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow fittonia",
+        "url": "https://www.rhs.org.uk/plants/fittonia/how-to-grow-fittonia"
+      }
+    },
+    {
+      "id": "dumb-cane",
+      "name": "Dumb cane",
+      "latin": "Dieffenbachia",
+      "emoji": "🎋",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, during growth",
+      "light": "Bright, filtered light; full light in winter",
+      "humidity": "high",
+      "temperature": "18–25°C; minimum 15°C",
+      "soil": "Peat-free loam-based potting compost",
+      "toxicToPets": true,
+      "personality": "Bold and leafy. You speak volumes without saying much.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water moderately while growing and sparingly in winter."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 15°C. Cut off badly damaged leaves."
+        },
+        {
+          "symptom": "Brown leaf edges",
+          "cause": "Low humidity",
+          "fix": "Mist or use a damp gravel tray."
+        },
+        {
+          "symptom": "Sticky, distorted new leaves",
+          "cause": "Aphids",
+          "fix": "Rinse off and check new growth regularly."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS: Dieffenbachia × bausei",
+        "url": "https://www.rhs.org.uk/plants/71017/dieffenbachia-%C3%97-bausei-v/details"
+      }
+    },
+    {
+      "id": "monstera-adansonii",
+      "name": "Swiss cheese vine",
+      "latin": "Monstera adansonii",
+      "emoji": "🕳️",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, April–September",
+      "light": "Bright, indirect or filtered light",
+      "humidity": "high",
+      "temperature": "18–25°C; away from radiators",
+      "soil": "Open, slightly acidic mix: 1 part peat-free ericaceous compost to 2 parts orchid compost",
+      "toxicToPets": true,
+      "personality": "Playful and full of holes in the best way. You're all charm.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Brown, crispy leaf edges",
+          "cause": "Dry air",
+          "fix": "Group plants and use a humidity tray."
+        },
+        {
+          "symptom": "Leaves with few holes",
+          "cause": "Low light",
+          "fix": "Move it to brighter, indirect light and give it something to climb."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow Swiss cheese plants",
+        "url": "https://www.rhs.org.uk/plants/swiss-cheese-plants/how-to-grow-swiss-cheese-plants"
+      }
+    },
+    {
+      "id": "begonia-maculata",
+      "name": "Polka dot begonia",
+      "latin": "Begonia maculata",
+      "emoji": "⚪",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 21,
+      "feedWhat": "High-potash liquid feed, May–September, as per the pack",
+      "light": "Good, bright light but no direct sun",
+      "humidity": "high",
+      "temperature": "15–22°C",
+      "soil": "Peat-free multi-purpose compost or peat-free John Innes No 2",
+      "toxicToPets": true,
+      "personality": "Quirky and stylish. You make spots look intentional.",
+      "problems": [
+        {
+          "symptom": "White powdery coating on leaves",
+          "cause": "Powdery mildew in damp, stuffy air",
+          "fix": "Improve airflow, avoid wetting the leaves and remove affected leaves."
+        },
+        {
+          "symptom": "Rotting leaves or leaf drop",
+          "cause": "Overwatering, too humid or too dark",
+          "fix": "Keep the compost moist but well drained and give more light."
+        },
+        {
+          "symptom": "Brown leaf edges",
+          "cause": "Dry air or too warm",
+          "fix": "Stand the pot on a damp gravel tray."
+        },
+        {
+          "symptom": "Yellow leaves",
+          "cause": "Low light, or over- or underwatering",
+          "fix": "Check the compost and move it somewhere brighter."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS: Begonias as houseplants",
+        "url": "https://www.rhs.org.uk/plants/begonias/houseplants"
+      }
+    },
+    {
+      "id": "parsley",
+      "name": "Parsley",
+      "latin": "Petroselinum crispum",
+      "emoji": "🌿",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 3,
+      "winterWaterEvery": 5,
+      "feedEvery": 21,
+      "feedWhat": "Organic-based balanced liquid feed every few weeks in the growing season",
+      "light": "Well-lit windowsill; sun or partial shade",
+      "humidity": "medium",
+      "temperature": "Hardy, but leafy growth indoors needs light and warmth",
+      "soil": "Peat-free multi-purpose compost in a pot at least 25cm wide",
+      "toxicToPets": true,
+      "personality": "Dependable and understated. You make everything better.",
+      "problems": [
+        {
+          "symptom": "Wilting in warm weather",
+          "cause": "Pots drying out quickly",
+          "fix": "Check often and keep the compost evenly moist, never waterlogged."
+        },
+        {
+          "symptom": "Flowering and fewer leaves",
+          "cause": "Second-year plant",
+          "fix": "Treat parsley as an annual and replace it each year."
+        },
+        {
+          "symptom": "Thin, overcrowded stems",
+          "cause": "Supermarket pot packed with seedlings",
+          "fix": "Split into a few clumps and pot them on into fresh compost."
+        },
+        {
+          "symptom": "Sticky, curled leaves",
+          "cause": "Aphids",
+          "fix": "Rinse off and keep picking from the outside."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow parsley",
+        "url": "https://www.rhs.org.uk/herbs/parsley/grow-your-own"
+      }
+    },
+    {
+      "id": "chives",
+      "name": "Chives",
+      "latin": "Allium schoenoprasum",
+      "emoji": "🧅",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 3,
+      "winterWaterEvery": 5,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed in the growing season",
+      "light": "Sunny kitchen windowsill",
+      "humidity": "medium",
+      "temperature": "Hardy; dies back in autumn outdoors",
+      "soil": "Peat-free soil-based compost in a pot at least 20cm wide",
+      "toxicToPets": true,
+      "personality": "Fresh and to the point. A little of you goes a long way.",
+      "problems": [
+        {
+          "symptom": "Raised orange spots on leaves",
+          "cause": "Leek rust, a fungal disease",
+          "fix": "Cut off affected leaves and improve airflow."
+        },
+        {
+          "symptom": "Thin, weak growth",
+          "cause": "Overcrowded clump",
+          "fix": "Divide every 3–4 years in spring or autumn."
+        },
+        {
+          "symptom": "Drooping leaves",
+          "cause": "Compost drying out",
+          "fix": "Water regularly and keep it evenly moist."
+        },
+        {
+          "symptom": "Sticky, distorted leaves",
+          "cause": "Aphids",
+          "fix": "Rinse off and keep harvesting."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow chives",
+        "url": "https://www.rhs.org.uk/herbs/chives/grow-your-own"
+      }
+    },
+    {
+      "id": "stromanthe",
+      "name": "Stromanthe 'Triostar'",
+      "latin": "Stromanthe sanguinea 'Triostar'",
+      "emoji": "🌈",
+      "rarity": "uncommon",
+      "free": false,
+      "waterEvery": 5,
+      "winterWaterEvery": 9,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September",
+      "light": "Bright, indirect light; colour is best with more light",
+      "humidity": "high",
+      "temperature": "18–27°C; avoid draughts and sudden changes",
+      "soil": "Well-draining peat-free houseplant compost",
+      "toxicToPets": false,
+      "personality": "Colourful and complex. People never quite know which side they'll see.",
+      "problems": [
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Spotty leaves after misting",
+          "cause": "Water sitting on leaves",
+          "fix": "Raise humidity with a tray or humidifier instead of wetting the leaves."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: thirsty houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-humidity"
+      }
+    },
+    {
+      "id": "anthurium-clarinervium",
+      "name": "Anthurium clarinervium",
+      "latin": "Anthurium clarinervium",
+      "emoji": "🤍",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 14,
+      "feedWhat": "Orchid fertiliser every 2 weeks, spring to autumn",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "Keep above 18°C",
+      "soil": "Acidic mix: 2 parts peat-free ericaceous compost, 1 part grit, 1 part orchid bark",
+      "toxicToPets": true,
+      "personality": "Velvety and refined. You notice the details others miss.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the anthurium out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Brown leaf edges",
+          "cause": "Low humidity",
+          "fix": "Stand the pot on a tray of moist gravel."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 18°C. Cut off badly damaged leaves."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Anthurium clarinervium",
+        "url": "https://www.rhs.org.uk/plants/84264/anthurium-clarinervium/details"
+      }
+    },
+    {
+      "id": "pink-princess",
+      "name": "Philodendron 'Pink Princess'",
+      "latin": "Philodendron 'Pink Princess'",
+      "emoji": "💗",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, in the growing season",
+      "light": "Bright, filtered or indirect light",
+      "humidity": "high",
+      "temperature": "Above 15°C all year",
+      "soil": "Loose, free-draining houseplant compost",
+      "toxicToPets": true,
+      "personality": "Glamorous and a little unpredictable. Every new leaf is a surprise.",
+      "problems": [
+        {
+          "symptom": "New leaves mostly dark green",
+          "cause": "Too little light",
+          "fix": "Give it bright, indirect light to support the pink."
+        },
+        {
+          "symptom": "Pink patches turning brown and crispy",
+          "cause": "Direct sun or dry air",
+          "fix": "Keep it out of direct sun and raise humidity."
+        },
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water freely in the growing season but let the surface dry first, and water moderately at other times."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: Philodendron 'Pink Princess'",
+        "url": "https://www.rhs.org.uk/plants/272080/philodendron-pink-princess-v/details"
+      }
+    },
+    {
+      "id": "sarracenia",
+      "name": "Trumpet pitcher plant",
+      "latin": "Sarracenia",
+      "emoji": "🎺",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 2,
+      "winterWaterEvery": 5,
+      "feedEvery": 0,
+      "feedWhat": "Never feed with fertiliser",
+      "light": "Full light, with shelter from very hot sun",
+      "humidity": "medium",
+      "temperature": "Needs a cool, well-ventilated winter; many types are fairly hardy",
+      "soil": "Acidic peat-free carnivorous mix, such as sphagnum moss with fine bark",
+      "toxicToPets": null,
+      "personality": "Patient and cunning. You let opportunities come to you.",
+      "problems": [
+        {
+          "symptom": "Browning, dying plant",
+          "cause": "Tap water or fertiliser",
+          "fix": "Water only with rainwater and never feed."
+        },
+        {
+          "symptom": "Pitchers browning in autumn",
+          "cause": "Natural winter rest",
+          "fix": "Trim dead pitchers and keep it cool and slightly drier until spring."
+        },
+        {
+          "symptom": "Distorted new growth",
+          "cause": "Aphids or mealybugs",
+          "fix": "Rinse them off and check new shoots in spring."
+        },
+        {
+          "symptom": "Grey fuzzy mould indoors",
+          "cause": "Grey mould in still air",
+          "fix": "Remove affected parts and give it more ventilation."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow carnivorous plants",
+        "url": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+      }
+    },
+    {
+      "id": "staghorn-fern",
+      "name": "Staghorn fern",
+      "latin": "Platycerium bifurcatum",
+      "emoji": "🦌",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, while growing",
+      "light": "Bright, filtered light",
+      "humidity": "high",
+      "temperature": "Grow indoors; keep above about 10–15°C",
+      "soil": "Mounted on a board, or equal parts coarse leaf mould, loam and charcoal",
+      "toxicToPets": false,
+      "personality": "Unconventional and proud of it. You hang your trophies on the wall.",
+      "problems": [
+        {
+          "symptom": "Brown, dry fronds",
+          "cause": "Too dry or low humidity",
+          "fix": "Water freely while growing and mist daily."
+        },
+        {
+          "symptom": "Black or rotting base",
+          "cause": "Too wet in winter",
+          "fix": "Water sparingly in winter."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: Platycerium bifurcatum",
+        "url": "https://www.rhs.org.uk/plants/13234/platycerium-bifurcatum/details"
+      }
+    },
+    {
+      "id": "alocasia-zebrina",
+      "name": "Alocasia zebrina",
+      "latin": "Alocasia zebrina",
+      "emoji": "🦓",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 21,
+      "feedWhat": "General liquid fertiliser every 2–3 weeks, spring to autumn",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "Keep above 15°C",
+      "soil": "Peat-free houseplant compost with grit",
+      "toxicToPets": true,
+      "personality": "Striking and a bit wild. You stand out without trying.",
+      "problems": [
+        {
+          "symptom": "Yellowing leaves and soft stems in winter",
+          "cause": "Too much water while resting",
+          "fix": "Cut watering right back in winter."
+        },
+        {
+          "symptom": "Brown edges and fine webbing",
+          "cause": "Dry air and red spider mite",
+          "fix": "Stand it on a tray of moist gravel and check leaf undersides."
+        },
+        {
+          "symptom": "Blackened, collapsed or drooping leaves after a cold snap",
+          "cause": "Cold damage or draughts",
+          "fix": "Move it somewhere warmer, away from cold windowsills and doors, and keep it above 15°C. Cut off badly damaged leaves."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Alocasia zebrina",
+        "url": "https://www.rhs.org.uk/plants/136827/alocasia-zebrina/details"
+      }
+    },
+    {
+      "id": "calathea-orbifolia",
+      "name": "Calathea orbifolia",
+      "latin": "Goeppertia orbifolia",
+      "emoji": "🍉",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 5,
+      "winterWaterEvery": 9,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid fertiliser, monthly",
+      "light": "Bright, indirect or filtered light",
+      "humidity": "high",
+      "temperature": "Constant warmth, at least 16°C",
+      "soil": "Peat-free potting compost",
+      "toxicToPets": false,
+      "personality": "Refined and high-standards. You notice when the room changes.",
+      "problems": [
+        {
+          "symptom": "Crispy, curling leaf edges",
+          "cause": "Low humidity",
+          "fix": "Raise humidity and keep it away from draughts."
+        },
+        {
+          "symptom": "Brown, crispy leaf tips",
+          "cause": "Fluoride or minerals in tap water, or very dry air",
+          "fix": "Water with rainwater or filtered water at room temperature, raise humidity, and snip off the dead tips."
+        },
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water moderately while growing and keep it just moist in winter."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Tiny white flying insects",
+          "cause": "Glasshouse whitefly",
+          "fix": "Use yellow sticky traps and rinse leaf undersides."
+        }
+      ],
+      "source": {
+        "name": "RHS: Calathea orbifolia",
+        "url": "https://www.rhs.org.uk/plants/176990/calathea-orbifolia/details"
+      }
+    },
+    {
+      "id": "philodendron-gloriosum",
+      "name": "Philodendron gloriosum",
+      "latin": "Philodendron gloriosum",
+      "emoji": "✨",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "General houseplant feed, April–September",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "At least 15°C",
+      "soil": "Loose, free-draining, slightly acidic mix in a wide pot",
+      "toxicToPets": true,
+      "personality": "Grounded and glorious. You grow sideways and on your own terms.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Rotting creeping stem",
+          "cause": "Stem buried or kept wet",
+          "fix": "Keep the creeping stem on top of the compost, not buried."
+        },
+        {
+          "symptom": "Brown, crispy leaf edges",
+          "cause": "Dry air",
+          "fix": "Raise humidity with a tray or humidifier."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow philodendrons",
+        "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide"
+      }
+    },
+    {
+      "id": "anthurium-crystallinum",
+      "name": "Crystal anthurium",
+      "latin": "Anthurium crystallinum",
+      "emoji": "💎",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 6,
+      "winterWaterEvery": 10,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "18–27°C; sensitive to cold",
+      "soil": "Airy, chunky mix with bark and pumice",
+      "toxicToPets": true,
+      "personality": "Luminous and a little fragile. You sparkle under the right conditions.",
+      "problems": [
+        {
+          "symptom": "Spots or fungal patches on leaves",
+          "cause": "Leaves staying wet",
+          "fix": "Raise humidity without soaking the leaves."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the anthurium out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Leggy growth",
+          "cause": "Not enough light",
+          "fix": "Move it closer to a bright window, out of harsh midday sun, and rotate the pot so it grows evenly."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: thirsty houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-humidity"
+      }
+    },
+    {
+      "id": "cape-sundew",
+      "name": "Cape sundew",
+      "latin": "Drosera capensis",
+      "emoji": "💧",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 2,
+      "winterWaterEvery": 4,
+      "feedEvery": 0,
+      "feedWhat": "Never feed with fertiliser",
+      "light": "Full light, shaded from hot sun under glass",
+      "humidity": "medium",
+      "temperature": "Keep frost-free indoors",
+      "soil": "Peat-free carnivorous plant compost or sphagnum moss",
+      "toxicToPets": null,
+      "personality": "Sparkly and sticky. People can't help but get drawn in.",
+      "problems": [
+        {
+          "symptom": "Leaves lose their sticky dew",
+          "cause": "Dry air or too little light",
+          "fix": "Give it more light and keep it standing in rainwater."
+        },
+        {
+          "symptom": "Plant browning",
+          "cause": "Tap water minerals or fertiliser",
+          "fix": "Use only rainwater, and refresh the compost if you've used tap water."
+        },
+        {
+          "symptom": "Compost drying out",
+          "cause": "Tray left empty",
+          "fix": "Keep the pot standing in a saucer of rainwater."
+        }
+      ],
+      "source": {
+        "name": "RHS: Drosera capensis",
+        "url": "https://www.rhs.org.uk/plants/6136/drosera-capensis/details"
+      }
+    },
+    {
+      "id": "nepenthes",
+      "name": "Tropical pitcher plant",
+      "latin": "Nepenthes",
+      "emoji": "🫖",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 4,
+      "winterWaterEvery": 7,
+      "feedEvery": 0,
+      "feedWhat": "Never feed with fertiliser",
+      "light": "Bright light out of direct sun; lower light than most carnivores",
+      "humidity": "high",
+      "temperature": "Above 15°C all year",
+      "soil": "Peat-free carnivorous plant compost or sphagnum moss",
+      "toxicToPets": null,
+      "personality": "Exotic and patient. You set things up and let life come to you.",
+      "problems": [
+        {
+          "symptom": "No new pitchers",
+          "cause": "Air too dry",
+          "fix": "Raise humidity; it likes warm, humid conditions."
+        },
+        {
+          "symptom": "Browning leaves",
+          "cause": "Mineral build-up from tap water",
+          "fix": "Use rainwater or distilled water and refresh the compost."
+        },
+        {
+          "symptom": "Old pitchers turning brown",
+          "cause": "Natural ageing",
+          "fix": "Snip them off."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Nepenthes 'Bill Bailey'",
+        "url": "https://www.rhs.org.uk/plants/302109/nepenthes-bill-bailey-/details"
+      }
+    },
+    {
+      "id": "philodendron-melanochrysum",
+      "name": "Black-gold philodendron",
+      "latin": "Philodendron melanochrysum",
+      "emoji": "🖤",
+      "rarity": "rare",
+      "free": false,
+      "waterEvery": 6,
+      "winterWaterEvery": 10,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September",
+      "light": "Bright, indirect or filtered light",
+      "humidity": "high",
+      "temperature": "18–27°C; avoid below 15°C",
+      "soil": "Well-draining compost rich in organic matter",
+      "toxicToPets": true,
+      "personality": "Dark, velvety and a bit mysterious. You're quietly impressive.",
+      "problems": [
+        {
+          "symptom": "Dull, small leaves",
+          "cause": "Too little light",
+          "fix": "Move it to bright, indirect light and give it a moss pole."
+        },
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water when the top 5–8cm is dry and keep it evenly moist, never soggy."
+        },
+        {
+          "symptom": "Torn or crispy new leaves",
+          "cause": "Dry air",
+          "fix": "Aim for high humidity."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: thirsty houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-humidity"
+      }
+    },
+    {
+      "id": "monstera-albo",
+      "name": "Monstera 'Albo'",
+      "latin": "Monstera deliciosa 'Albo-Variegata'",
+      "emoji": "🤍",
+      "rarity": "legendary",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, April–September",
+      "light": "Bright, indirect or filtered light; white areas scorch easily",
+      "humidity": "high",
+      "temperature": "18–25°C all year",
+      "soil": "Open, slightly acidic mix: 1 part peat-free ericaceous compost to 2 parts orchid compost",
+      "toxicToPets": true,
+      "personality": "Rare, dramatic and worth every penny. You don't do ordinary.",
+      "problems": [
+        {
+          "symptom": "White patches turning brown and crispy",
+          "cause": "Direct sun or dry air; white areas have no chlorophyll",
+          "fix": "Keep it out of direct sun and raise humidity."
+        },
+        {
+          "symptom": "New shoots all green",
+          "cause": "Reversion, or too little light",
+          "fix": "Give it good, bright, indirect light and prune out any all-green shoots so they don't take over."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow Swiss cheese plants",
+        "url": "https://www.rhs.org.uk/plants/swiss-cheese-plants/how-to-grow-swiss-cheese-plants"
+      }
+    },
+    {
+      "id": "thai-constellation",
+      "name": "Monstera 'Thai Constellation'",
+      "latin": "Monstera deliciosa 'Thai Constellation'",
+      "emoji": "🌌",
+      "rarity": "legendary",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 14,
+      "feedEvery": 30,
+      "feedWhat": "Balanced liquid feed, monthly, in the growing season",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "Keep above 15°C; warmer is better",
+      "soil": "Peat-free loam-based potting compost",
+      "toxicToPets": true,
+      "personality": "Starry-eyed and slow-burning. You're in it for the long game.",
+      "problems": [
+        {
+          "symptom": "Cream speckles browning",
+          "cause": "Direct sun or dry air",
+          "fix": "Filter the light and raise humidity."
+        },
+        {
+          "symptom": "Yellowing leaves and soggy compost",
+          "cause": "Usually overwatering",
+          "fix": "Water when growing and keep it just moist in winter."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "Small brown bumps on stems and leaf undersides, sticky leaves",
+          "cause": "Scale insects",
+          "fix": "Scrape them off by hand and wipe the leaves clean. Bin badly infested plants rather than spreading the problem."
+        }
+      ],
+      "source": {
+        "name": "RHS: Monstera deliciosa 'Thai Constellation'",
+        "url": "https://www.rhs.org.uk/plants/520520/monstera-deliciosa-thai-constellation-v/details"
+      }
+    },
+    {
+      "id": "anthurium-warocqueanum",
+      "name": "Queen anthurium",
+      "latin": "Anthurium warocqueanum",
+      "emoji": "👑",
+      "rarity": "legendary",
+      "free": false,
+      "waterEvery": 6,
+      "winterWaterEvery": 10,
+      "feedEvery": 30,
+      "feedWhat": "Orchid fertiliser, April–September",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "Above 15°C all year, ideally warmer",
+      "soil": "Light, open orchid-type compost",
+      "toxicToPets": true,
+      "personality": "Regal and demanding. You expect the very best, and give it too.",
+      "problems": [
+        {
+          "symptom": "Brown leaf tips",
+          "cause": "Hard tap water causing build-up",
+          "fix": "Use rainwater or filtered water at room temperature."
+        },
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the anthurium out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Torn or crispy new leaves",
+          "cause": "Low humidity",
+          "fix": "Keep humidity high, ideally with a humidifier or cabinet."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: Anthurium warocqueanum",
+        "url": "https://www.rhs.org.uk/plants/1361/anthurium-warocqueanum/details"
+      }
+    },
+    {
+      "id": "philodendron-spiritus-sancti",
+      "name": "Philodendron spiritus-sancti",
+      "latin": "Philodendron spiritus-sancti",
+      "emoji": "🕊️",
+      "rarity": "legendary",
+      "free": false,
+      "waterEvery": 7,
+      "winterWaterEvery": 12,
+      "feedEvery": 30,
+      "feedWhat": "General houseplant feed, April–September",
+      "light": "Bright, indirect light",
+      "humidity": "high",
+      "temperature": "At least 15°C",
+      "soil": "Loose, free-draining, slightly acidic mix",
+      "toxicToPets": true,
+      "personality": "The holy grail. You buy lab-grown only, because the wild ones need protecting.",
+      "problems": [
+        {
+          "symptom": "Wilting even though the compost is wet; dark, mushy roots",
+          "cause": "Root rot from compost that stays wet",
+          "fix": "Ease the plant out of its pot, trim off soft brown roots, repot into fresh peat-free compost in a pot only just big enough, and water less often."
+        },
+        {
+          "symptom": "Small, sparse leaves",
+          "cause": "Too little light or nothing to climb",
+          "fix": "Give it bright, indirect light and a moist moss pole."
+        },
+        {
+          "symptom": "Crispy leaf edges",
+          "cause": "Dry air",
+          "fix": "Raise humidity with a tray or humidifier."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS: How to grow philodendrons",
+        "url": "https://www.rhs.org.uk/plants/philodendron/growing-guide"
+      }
+    },
+    {
+      "id": "brighamia",
+      "name": "Vulcan palm",
+      "latin": "Brighamia insignis",
+      "emoji": "🌋",
+      "rarity": "legendary",
+      "free": false,
+      "waterEvery": 10,
+      "winterWaterEvery": 21,
+      "feedEvery": 30,
+      "feedWhat": "Liquid feed as per pack, April–September; every 2–3 months in winter",
+      "light": "Bright, indirect light; some morning or late afternoon sun",
+      "humidity": "medium",
+      "temperature": "18–24°C; not frost-tolerant",
+      "soil": "Well-draining cactus and succulent mix",
+      "toxicToPets": null,
+      "personality": "Quirky and one of a kind. You've got a great comeback story.",
+      "problems": [
+        {
+          "symptom": "Soft, rotting stem",
+          "cause": "Overwatering; the stem stores water",
+          "fix": "Let the compost dry slightly between waterings."
+        },
+        {
+          "symptom": "Bleached or brown scorched patches",
+          "cause": "Direct sun through glass",
+          "fix": "Move it out of hot midday sun or behind a sheer curtain. Damaged patches won't recover, but new leaves will be fine."
+        },
+        {
+          "symptom": "Fine pale speckling and webbing under leaves",
+          "cause": "Red spider mite, worse in warm, dry air",
+          "fix": "Shower the leaves, raise humidity and isolate the plant. Predatory mites work well for stubborn outbreaks."
+        },
+        {
+          "symptom": "White fluffy blobs in leaf joints and sticky leaves",
+          "cause": "Mealybugs feeding on sap",
+          "fix": "Isolate the plant and wipe them off with a damp cotton bud. Check again weekly, as eggs hatch later."
+        }
+      ],
+      "source": {
+        "name": "RHS Urban Show: low-light tolerant houseplants",
+        "url": "https://www.rhs.org.uk/shows-events/rhs-urban-show/houseplant-profiles/houseplants-for-shade"
+      }
+    }
+  ]
+}

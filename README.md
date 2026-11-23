@@ -39,8 +39,8 @@ Houseplant owners, especially new ones who keep killing plants.
 
 | Model | Detail |
 |---|---|
-| Free | Up to 5 plants, with ads |
-| Premium | £24.99/year (shown first) or £3.49/month: unlimited plants, full growth portfolio, cloud photo backup, sharing |
+| Free | Up to 20 plants from the 20 most common houseplants, with ads |
+| Premium | £24.99/year (shown first) or £3.49/month: every plant in the library (rare and legendary too), unlimited plants, photo ID and growth portfolio as they launch, no ads |
 | Affiliate | Plant-care products, clearly labelled |
 
 **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
