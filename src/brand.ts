@@ -1,0 +1,51 @@
+import type { Brand } from '@/kit/theme';
+
+export const brand: Brand = {
+  slug: 'thirsty',
+  name: 'Thirsty',
+  tagline: 'Keep your plants alive, and watch them grow',
+  fonts: { display: 'Baloo2_800ExtraBold' },
+  radius: 24,
+  light: {
+    bg: '#F3F8EE',
+    surface: '#FFFFFF',
+    surfaceAlt: '#E2EFD8',
+    text: '#13210F',
+    textMuted: '#4A5E44',
+    border: '#D2E5C5',
+    primary: '#2E7D32',
+    primaryText: '#FFFFFF',
+    accent: '#C8553D',
+    accentText: '#FFFFFF',
+    success: '#2E7D32',
+    warning: '#9A5B00',
+    danger: '#B3261E',
+    focus: '#2E7D32',
+  },
+  dark: {
+    bg: '#0D150B',
+    surface: '#152013',
+    surfaceAlt: '#1F2E1C',
+    text: '#E9F4E4',
+    textMuted: '#A6BC9F',
+    border: '#2B3D27',
+    primary: '#81C784',
+    primaryText: '#0D2010',
+    accent: '#E8806A',
+    accentText: '#1A0703',
+    success: '#81C784',
+    warning: '#F3B44C',
+    danger: '#FF8A80',
+    focus: '#81C784',
+  },
+  plans: [
+    { id: 'yearly', label: 'Yearly', price: '£24.99 a year', note: 'Best value: about £2.08 a month' },
+    { id: 'monthly', label: 'Monthly', price: '£3.49 a month' },
+  ],
+  premiumPerks: ['Unlimited plants (free has 5)', 'Growth photo portfolio and time-lapse as it launches', 'Cloud photo backup as it launches', 'No ads, ever'],
+  privacyUrl: 'https://kaoticchainz.com/privacy',
+  termsUrl: 'https://kaoticchainz.com/terms',
+  supportEmail: 'hello@kaoticchainz.com',
+};
+
+export const FREE_PLANTS = 5;
