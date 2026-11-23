@@ -10,6 +10,7 @@ import { dueIn, GEMS, health } from '@/domain/plants';
 import { FREE_PLANTS } from '@/brand';
 import { useCare } from '@/components/useWater';
 import { useGarden } from '@/state/garden';
+import { league, personality } from '@/domain/library';
 
 const dueText = (d: number) => (d > 1 ? `Water in ${d} days` : d === 1 ? 'Water tomorrow' : d === 0 ? 'Water today' : `${-d} ${d === -1 ? 'day' : 'days'} overdue`);
 
@@ -34,6 +35,13 @@ export default function Garden() {
         <EmptyState icon="leaf-outline" title="No plants yet" body="Add your first plant and Thirsty will remind you when it's thirsty." action={<Button title="Add a plant" icon="add" onPress={add} testID="add-plant" />} />
       ) : (
         <>
+          <Card tone="alt" testID="league">
+            <Strong>{`${league(g.plants).emoji} ${league(g.plants).name} league · ${league(g.plants).points} pts`}</Strong>
+            <Muted>{league(g.plants).next ? `${league(g.plants).next!.needs} pts to ${league(g.plants).next!.name}. Rarer plants score more.` : 'Top league. Legendary.'}</Muted>
+            {personality(g.plants).slice(0, 2).map((l) => (
+              <Body key={l}>{`“${l}”`}</Body>
+            ))}
+          </Card>
           <Stack gap={10}>
             {sorted.map((p) => {
               const d = dueIn(p, 'water', today);

@@ -27,8 +27,13 @@ export type Plant = {
   type: string;
   emoji: string;
   waterEvery: number;
+  /** Winter (November–February) watering interval, from the plant library. */
+  winterWaterEvery?: number;
   feedEvery: number;
   adopted: DayKey;
+  /** Id in the plant library (content/plants.json), if the plant came from it. */
+  libraryId?: string;
+  plays?: { day: DayKey; kind: string }[];
   care: Care[];
   events: Event[];
   revivedOn?: DayKey;
@@ -40,12 +45,22 @@ export function lastCare(p: Plant, kind: CareKind): DayKey | null {
   return last;
 }
 
+export function isWinter(day: DayKey) {
+  const m = Number(day.slice(5, 7));
+  return m === 11 || m === 12 || m === 1 || m === 2;
+}
+
+/** Watering slows in winter when the library knows the plant's winter rhythm. Feeding pauses if it's 0. */
+export function intervalFor(p: Plant, kind: CareKind, today: DayKey): number {
+  if (kind === 'feed') return p.feedEvery > 0 ? p.feedEvery : 9999;
+  return isWinter(today) && p.winterWaterEvery ? p.winterWaterEvery : p.waterEvery;
+}
+
 /** Days until the next watering (negative = overdue). Counts from adoption if never watered. */
 export function dueIn(p: Plant, kind: CareKind, today: DayKey): number {
   const candidates = [lastCare(p, kind), kind === 'water' ? p.revivedOn : undefined, p.adopted].filter(Boolean) as DayKey[];
   const from = candidates.reduce((a, b) => (b > a ? b : a));
-  const every = kind === 'water' ? p.waterEvery : p.feedEvery;
-  return every - diffDays(from, today);
+  return intervalFor(p, kind, today) - diffDays(from, today);
 }
 
 /** In-app health 0–100: full until a watering is overdue, then −25 a day. Revived plants restart at full. */
@@ -88,6 +103,6 @@ export function milestones(p: Plant, today: DayKey): Milestone[] {
 export function plantError(p: { nickname: string; waterEvery: number; feedEvery: number }): string | null {
   if (!p.nickname.trim()) return 'Every plant deserves a name.';
   if (!Number.isInteger(p.waterEvery) || p.waterEvery < 1 || p.waterEvery > 60) return 'Watering every 1 to 60 days.';
-  if (!Number.isInteger(p.feedEvery) || p.feedEvery < 7 || p.feedEvery > 180) return 'Feeding every 7 to 180 days.';
+  if (!Number.isInteger(p.feedEvery) || (p.feedEvery !== 0 && (p.feedEvery < 7 || p.feedEvery > 180))) return 'Feeding every 7 to 180 days (or 0 for never).';
   return null;
 }

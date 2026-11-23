@@ -43,10 +43,10 @@ export const brand: Brand = {
     { id: 'yearly', label: 'Yearly', price: '£24.99 a year', note: 'Best value: about £2.08 a month' },
     { id: 'monthly', label: 'Monthly', price: '£3.49 a month' },
   ],
-  premiumPerks: ['Unlimited plants (free has 5)', 'Growth photo portfolio and time-lapse as it launches', 'Cloud photo backup as it launches', 'No ads, ever'],
+  premiumPerks: ['Every plant in the library, rare and legendary too (free has the 20 most common)', 'Unlimited plants (free has 20)', 'Growth photo portfolio and time-lapse as it launches', 'Cloud photo backup as it launches', 'No ads, ever'],
   privacyUrl: 'https://kaoticchainz.com/privacy',
   termsUrl: 'https://kaoticchainz.com/terms',
   supportEmail: 'hello@kaoticchainz.com',
 };
 
-export const FREE_PLANTS = 5;
+export const FREE_PLANTS = 20;

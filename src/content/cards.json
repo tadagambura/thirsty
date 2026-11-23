@@ -1,0 +1,2262 @@
+{
+  "pack": "thirsty-cards-1",
+  "version": 1,
+  "checked": "2026-11-23",
+  "reviewed": false,
+  "cards": [
+    {
+      "id": "tc01",
+      "topic": "Watering",
+      "title": "Check before you water",
+      "body": "Skip the fixed timetable. Push a finger a few centimetres into the compost: dry means water, damp means wait. Lifting the pot helps too, as a dry pot feels much lighter. Plants in warm, bright rooms dry out faster than those in cool rooms, and almost all need less in winter. Treat Thirsty's reminders as a nudge to check, not an order to pour.",
+      "quiz": {
+        "q": "What's the most reliable way to know when to water?",
+        "options": [
+          "Water every Sunday, whatever happens",
+          "Feel the compost or the weight of the pot first",
+          "Wait until the leaves droop"
+        ],
+        "answer": 1,
+        "explain": "The RHS advises checking the compost rather than following a schedule. Drooping can mean too much water as well as too little."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "watering",
+        "basics"
+      ],
+      "plants": [
+        "snake-plant",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "cactus",
+        "echeveria",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "chinese-money-plant",
+        "peperomia",
+        "cast-iron-plant",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "staghorn-fern",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "monstera-albo",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia",
+        "pothos",
+        "rubber-plant",
+        "chinese-evergreen",
+        "moth-orchid",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "kentia-palm",
+        "birds-nest-fern",
+        "dumb-cane",
+        "pink-princess",
+        "calathea-orbifolia",
+        "philodendron-melanochrysum",
+        "thai-constellation"
+      ]
+    },
+    {
+      "id": "tc02",
+      "topic": "Watering",
+      "title": "Soak, drain, then wait",
+      "body": "When you do water, water properly: wet the whole rootball until water runs from the drainage holes, then let it finish dripping. Tip away anything left in the saucer or cover pot. Virginia Tech's extension team points out that overwatering is about how often you water, not how much you pour in one go. A good soak followed by a proper dry spell is the rhythm most plants love.",
+      "quiz": {
+        "q": "According to Virginia Tech's extension experts, overwatering is mainly about…",
+        "options": [
+          "How much water you pour in each time",
+          "How often you water",
+          "The colour of your watering can"
+        ],
+        "answer": 1,
+        "explain": "Soaking the whole rootball is good. Doing it again before the compost has dried is what drowns roots."
+      },
+      "source": {
+        "name": "Virginia Cooperative Extension: Properly watering container houseplants",
+        "url": "https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/spes/spes-804/SPES-804.pdf"
+      },
+      "tags": [
+        "watering",
+        "soak-and-dry",
+        "drainage"
+      ],
+      "plants": [
+        "snake-plant",
+        "aloe-vera",
+        "jade-plant",
+        "cactus",
+        "echeveria",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-kerrii",
+        "brighamia",
+        "zz-plant",
+        "pothos",
+        "monstera",
+        "chinese-evergreen",
+        "heartleaf-philodendron",
+        "peace-lily",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "dumb-cane",
+        "monstera-adansonii",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "alocasia-zebrina",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc03",
+      "topic": "Reading leaves",
+      "title": "Too much water or too little?",
+      "body": "Both can make a plant wilt, so check the compost before reacting. Overwatering tends to yellow old and new leaves at the same time, and can bring mould on the compost, mushy roots, stem rot and collapse. Underwatering yellows the older, lower leaves first and gives crispy brown edges and dry, light compost. Wet compost plus wilting is the big warning sign.",
+      "quiz": {
+        "q": "A plant is wilting but its compost is soggy. What's most likely?",
+        "options": [
+          "It needs more water",
+          "It's been overwatered and the roots are struggling",
+          "It needs feeding"
+        ],
+        "answer": 1,
+        "explain": "Wet compost plus wilting usually means the roots are damaged by too much water, so more water would make it worse."
+      },
+      "source": {
+        "name": "RHS: How to help a poorly houseplant",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant"
+      },
+      "tags": [
+        "watering",
+        "overwatering",
+        "underwatering",
+        "reading-leaves"
+      ],
+      "plants": [
+        "snake-plant",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "cactus",
+        "echeveria",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "chinese-money-plant",
+        "peperomia",
+        "cast-iron-plant",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "staghorn-fern",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "monstera-albo",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia",
+        "pothos",
+        "rubber-plant",
+        "chinese-evergreen",
+        "moth-orchid",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "kentia-palm",
+        "birds-nest-fern",
+        "dumb-cane",
+        "pink-princess",
+        "calathea-orbifolia",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "spider-plant",
+        "peace-lily",
+        "basil",
+        "nerve-plant",
+        "alocasia-zebrina"
+      ]
+    },
+    {
+      "id": "tc04",
+      "topic": "Plant health",
+      "title": "Root rot: catch it early",
+      "body": "Roots need air as well as water. When compost stays soggy, roots suffocate and rot, turning dark, soft and mushy. Suspect it if a plant wilts in wet compost or yellows all over. Ease it out of the pot, cut away soft brown roots, then repot into fresh peat-free compost in a pot only just big enough. Water less often from now on.",
+      "quiz": null,
+      "source": {
+        "name": "RHS: How to help a poorly houseplant",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant"
+      },
+      "tags": [
+        "root-rot",
+        "overwatering",
+        "repotting"
+      ],
+      "plants": [
+        "snake-plant",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "cactus",
+        "echeveria",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "chinese-money-plant",
+        "peperomia",
+        "cast-iron-plant",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "staghorn-fern",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "monstera-albo",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia",
+        "pothos",
+        "rubber-plant",
+        "chinese-evergreen",
+        "moth-orchid",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "kentia-palm",
+        "birds-nest-fern",
+        "dumb-cane",
+        "pink-princess",
+        "calathea-orbifolia",
+        "philodendron-melanochrysum",
+        "thai-constellation"
+      ]
+    },
+    {
+      "id": "tc05",
+      "topic": "Pots",
+      "title": "Drainage holes and the right pot",
+      "body": "Every pot needs drainage holes. If yours sits in a decorative pot with no holes, lift the inner pot out to water and let it drain first. Unglazed terracotta loses water through its walls, which suits cacti and succulents. Plastic and glazed pots stay damp longer, which suits moisture lovers. Avoid jumping to a much bigger pot, as the extra compost stays wet around the roots.",
+      "quiz": {
+        "q": "Which pot suits a cactus best?",
+        "options": [
+          "Unglazed terracotta with a drainage hole",
+          "A glazed pot with no hole",
+          "A very large plastic pot"
+        ],
+        "answer": 0,
+        "explain": "Terracotta dries out faster, which helps plants that hate wet roots. A hole is essential for any plant."
+      },
+      "source": {
+        "name": "Virginia Cooperative Extension: Properly watering container houseplants",
+        "url": "https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/spes/spes-804/SPES-804.pdf"
+      },
+      "tags": [
+        "drainage",
+        "pots",
+        "watering"
+      ],
+      "plants": [
+        "snake-plant",
+        "aloe-vera",
+        "jade-plant",
+        "cactus",
+        "echeveria",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-kerrii",
+        "brighamia",
+        "zz-plant",
+        "moth-orchid",
+        "hoya-carnosa",
+        "boston-fern",
+        "birds-nest-fern",
+        "nerve-plant",
+        "peace-lily",
+        "basil",
+        "mint",
+        "parsley",
+        "chives",
+        "calathea",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "stromanthe",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    },
+    {
+      "id": "tc06",
+      "topic": "Light",
+      "title": "What 'bright, indirect light' means",
+      "body": "Most houseplants want plenty of light without hot sun landing on their leaves. The RHS describes bright shade as light that doesn't cast a sharp-edged shadow. An east- or west-facing window is often ideal. By a south-facing window, step plants back or add a sheer curtain in summer, because strong sun through glass can scorch. In winter, give them as much light as you can.",
+      "quiz": {
+        "q": "You hold your hand over a leaf. What kind of shadow suggests bright, indirect light?",
+        "options": [
+          "A crisp, sharp-edged shadow",
+          "A soft, fuzzy-edged shadow",
+          "No light at all"
+        ],
+        "answer": 1,
+        "explain": "A sharp shadow means direct sun. A soft one means bright but filtered light, which most foliage plants love."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "light",
+        "basics"
+      ],
+      "plants": [
+        "pothos",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "string-of-hearts",
+        "hoya-kerrii",
+        "chinese-money-plant",
+        "peperomia",
+        "kentia-palm",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "monstera-adansonii",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc07",
+      "topic": "Light",
+      "title": "Signs your plant wants more light",
+      "body": "Low light shows up as long, stretched stems, pale or small leaves, faded variegation and few or no flowers. Lower leaves may also yellow. Move the plant closer to a window, ideally south- or west-facing in winter, and wipe dust off the leaves so they can catch every bit of light. Turning the pot now and then keeps growth even.",
+      "quiz": {
+        "q": "Your pothos has lost its gold streaks and grown long, bare stems. What's the likeliest fix?",
+        "options": [
+          "More fertiliser",
+          "More light",
+          "More water"
+        ],
+        "answer": 1,
+        "explain": "Faded variegation and stretched growth are classic signs of too little light."
+      },
+      "source": {
+        "name": "RHS: How to help a poorly houseplant",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant"
+      },
+      "tags": [
+        "light",
+        "low-light",
+        "reading-leaves"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "heartleaf-philodendron",
+        "cactus",
+        "echeveria",
+        "basil",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "chinese-money-plant",
+        "peperomia",
+        "tradescantia",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "nerve-plant",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "pink-princess",
+        "anthurium-crystallinum",
+        "cape-sundew",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc08",
+      "topic": "Nutrition",
+      "title": "NPK: the three numbers on every feed",
+      "body": "Fertiliser labels list three numbers: the percentage of nitrogen (N), phosphorus (P) and potassium (K), always in that order. Nitrogen drives leaf and stem growth. Phosphorus supports healthy roots and shoots. Potassium helps flowering, fruiting and toughness. Plants also need smaller amounts of magnesium, calcium, sulphur and trace elements such as iron. Match the feed to the plant: leafy plants like more N, flowering ones more K.",
+      "quiz": {
+        "q": "What does the K in N-P-K mainly help with?",
+        "options": [
+          "Leafy green growth",
+          "Flowering, fruiting and hardiness",
+          "Killing pests"
+        ],
+        "answer": 1,
+        "explain": "Potassium (K) supports flowers, fruit and toughness. Nitrogen (N) is the leafy one."
+      },
+      "source": {
+        "name": "RHS: Fertilisers",
+        "url": "https://www.rhs.org.uk/garden-jobs/fertilisers"
+      },
+      "tags": [
+        "nutrition",
+        "npk",
+        "feeding"
+      ],
+      "plants": [
+        "rubber-plant",
+        "fiddle-leaf-fig",
+        "monstera",
+        "pothos",
+        "heartleaf-philodendron",
+        "spider-plant",
+        "parlour-palm",
+        "kentia-palm",
+        "chinese-evergreen",
+        "dumb-cane",
+        "arrowhead-plant",
+        "thai-constellation",
+        "monstera-albo",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "basil",
+        "mint",
+        "parsley",
+        "chives",
+        "moth-orchid",
+        "peace-lily",
+        "flamingo-flower",
+        "bird-of-paradise",
+        "hoya-carnosa",
+        "begonia-maculata",
+        "cactus",
+        "echeveria",
+        "anthurium-clarinervium"
+      ]
+    },
+    {
+      "id": "tc09",
+      "topic": "Nutrition",
+      "title": "When to feed (and when to stop)",
+      "body": "Plants in pots rely on you for food, because their compost runs out. Feed while they're actively growing, roughly April to September, with a liquid fertiliser. In winter, low light means most plants can't use much feed, so cut right back or stop. Very few plants need feeding in winter, even winter-flowering ones. Using as little fertiliser as works is better for plants and waterways.",
+      "quiz": {
+        "q": "When do most houseplants need feeding?",
+        "options": [
+          "All year round, every week",
+          "Mainly in the growing season, roughly April to September",
+          "Only in winter"
+        ],
+        "answer": 1,
+        "explain": "Growth slows in the dark months, so feed mainly from spring to late summer."
+      },
+      "source": {
+        "name": "RHS: Fertilisers",
+        "url": "https://www.rhs.org.uk/garden-jobs/fertilisers"
+      },
+      "tags": [
+        "nutrition",
+        "feeding",
+        "seasons"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "basil",
+        "mint",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "chinese-money-plant",
+        "peperomia",
+        "tradescantia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "nerve-plant",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "parsley",
+        "chives",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc10",
+      "topic": "Nutrition",
+      "title": "Feed like a pro",
+      "body": "Never feed a plant whose compost is dry, as fertiliser can burn the roots. Water first, then feed. Liquid feeds can go on once or twice a month, or at quarter strength every time you water. Leafy plants enjoy a nitrogen-rich feed, flowering plants one higher in phosphorus and potassium, and acid-lovers an ericaceous feed. Organic feeds work, but some smell strong indoors.",
+      "quiz": {
+        "q": "Your plant's compost is bone dry and it's feeding day. What should you do?",
+        "options": [
+          "Feed straight away",
+          "Water first, then feed",
+          "Double the feed to make up for it"
+        ],
+        "answer": 1,
+        "explain": "The RHS warns that feeding dry compost can burn roots. Moisten the compost first."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "nutrition",
+        "feeding",
+        "how-to"
+      ],
+      "plants": [
+        "rubber-plant",
+        "fiddle-leaf-fig",
+        "monstera",
+        "pothos",
+        "heartleaf-philodendron",
+        "spider-plant",
+        "parlour-palm",
+        "kentia-palm",
+        "chinese-evergreen",
+        "dumb-cane",
+        "arrowhead-plant",
+        "thai-constellation",
+        "monstera-albo",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "basil",
+        "mint",
+        "parsley",
+        "chives",
+        "moth-orchid",
+        "peace-lily",
+        "flamingo-flower",
+        "bird-of-paradise",
+        "hoya-carnosa",
+        "begonia-maculata",
+        "cactus",
+        "echeveria",
+        "anthurium-clarinervium",
+        "dracaena",
+        "monstera-adansonii",
+        "peperomia",
+        "boston-fern",
+        "birds-nest-fern",
+        "philodendron-gloriosum",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc11",
+      "topic": "Nutrition",
+      "title": "Nitrogen deficiency: pale from the bottom up",
+      "body": "Short of nitrogen, a plant goes pale and yellow, starting with the oldest leaves and moving upwards, sometimes with pinkish tints. Growth becomes thin and stunted. Container compost can run low within weeks, as watering washes nutrients out. Rule out overwatering and low light first, then use a general liquid feed. Too much nitrogen isn't the answer either: it gives very dark leaves and stunted growth.",
+      "quiz": {
+        "q": "Where does nitrogen deficiency usually show first?",
+        "options": [
+          "On the newest leaves at the top",
+          "On the oldest, lower leaves",
+          "Only on flowers"
+        ],
+        "answer": 1,
+        "explain": "Plants move nitrogen from old leaves to new growth, so older leaves yellow first."
+      },
+      "source": {
+        "name": "RHS: Nutrient deficiencies",
+        "url": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+      },
+      "tags": [
+        "nutrition",
+        "nitrogen",
+        "deficiency",
+        "yellow-leaves"
+      ],
+      "plants": [
+        "rubber-plant",
+        "fiddle-leaf-fig",
+        "monstera",
+        "pothos",
+        "heartleaf-philodendron",
+        "spider-plant",
+        "parlour-palm",
+        "kentia-palm",
+        "chinese-evergreen",
+        "dumb-cane",
+        "arrowhead-plant",
+        "thai-constellation",
+        "monstera-albo",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "basil",
+        "mint",
+        "parsley",
+        "chives"
+      ]
+    },
+    {
+      "id": "tc12",
+      "topic": "Reading leaves",
+      "title": "Yellow leaves: a quick decoder",
+      "body": "An odd old leaf yellowing and dropping is normal. If more go, look for a pattern. Old and new leaves yellowing together hints at overwatering. Lower leaves yellowing first can mean underwatering, low light or hunger. Draughts and sudden cold also cause yellowing. Yellow between green veins points to a nutrient problem. Check the compost and light before reaching for fertiliser.",
+      "quiz": {
+        "q": "Old and new leaves are yellowing at the same time and the compost is wet. Likely cause?",
+        "options": [
+          "Overwatering",
+          "Not enough feed",
+          "Too much sun"
+        ],
+        "answer": 0,
+        "explain": "The RHS links all-over yellowing with wet compost to overwatering."
+      },
+      "source": {
+        "name": "RHS: How to help a poorly houseplant",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant"
+      },
+      "tags": [
+        "reading-leaves",
+        "yellow-leaves",
+        "diagnosis"
+      ],
+      "plants": [
+        "pothos",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "heartleaf-philodendron",
+        "basil",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "string-of-hearts",
+        "hoya-kerrii",
+        "chinese-money-plant",
+        "peperomia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "nerve-plant",
+        "dumb-cane",
+        "begonia-maculata",
+        "pink-princess",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-melanochrysum",
+        "thai-constellation"
+      ]
+    },
+    {
+      "id": "tc13",
+      "topic": "Reading leaves",
+      "title": "Brown tips and edges",
+      "body": "Crispy brown tips are usually about water or air. Underwatering is the most common cause, though overwatering can do it too and tends to brown the middle of the leaf. Dry, stuffy air from heating is another culprit, so raise humidity and improve airflow. Sensitive plants such as calatheas, spider plants and dracaenas also react to fluoride and minerals in tap water.",
+      "quiz": {
+        "q": "Which is NOT a common cause of brown leaf tips?",
+        "options": [
+          "Dry air from central heating",
+          "Uneven watering",
+          "Too much humidity in a bathroom"
+        ],
+        "answer": 2,
+        "explain": "Dry air and irregular watering are the usual causes. Humid bathrooms tend to help leafy tropicals."
+      },
+      "source": {
+        "name": "RHS: Leaf damage on houseplants",
+        "url": "https://www.rhs.org.uk/prevention-protection/leaf-damage-on-houseplants"
+      },
+      "tags": [
+        "reading-leaves",
+        "brown-tips",
+        "humidity",
+        "watering"
+      ],
+      "plants": [
+        "pothos",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "prayer-plant",
+        "chinese-money-plant",
+        "peperomia",
+        "tradescantia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "nerve-plant",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "sarracenia",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "cape-sundew",
+        "nepenthes",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "brighamia",
+        "philodendron-melanochrysum",
+        "philodendron-spiritus-sancti",
+        "echeveria",
+        "heartleaf-philodendron",
+        "venus-flytrap"
+      ]
+    },
+    {
+      "id": "tc14",
+      "topic": "Humidity",
+      "title": "Easy ways to raise humidity",
+      "body": "Central heating dries the air, which tropical plants dislike. Stand pots on a tray of damp gravel or clay pebbles, keeping the pot base above the water line. Group plants together so they share moisture. Steamy bathrooms suit many ferns and calatheas. Misting helps a little, but the RHS rates it less effective than trays and grouping. Keep plants away from radiators.",
+      "quiz": {
+        "q": "Which humidity trick does the RHS rate as least effective?",
+        "options": [
+          "Grouping plants together",
+          "A tray of damp gravel",
+          "Misting"
+        ],
+        "answer": 2,
+        "explain": "Misting helps briefly, but trays of damp gravel and grouping plants make a bigger difference."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "humidity",
+        "basics",
+        "winter"
+      ],
+      "plants": [
+        "boston-fern",
+        "calathea",
+        "prayer-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "nerve-plant",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "nepenthes",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc15",
+      "topic": "Watering",
+      "title": "Tap water, rainwater or filtered?",
+      "body": "Most plants cope with tap water, but some are fussy. Leave tap water to stand for a day so chlorine can escape, and use it at room temperature. Hard water is alkaline, which acid-loving plants dislike, so collect rainwater for them. Fluoride can build up and brown leaf tips on sensitive plants. Never use water from a domestic water softener, as its salts harm plants.",
+      "quiz": {
+        "q": "Which water should you never use on houseplants?",
+        "options": [
+          "Rainwater",
+          "Tap water left to stand for a day",
+          "Water from a domestic water softener"
+        ],
+        "answer": 2,
+        "explain": "Softened water contains salts that are highly toxic to plants."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "watering",
+        "water-quality",
+        "tap-water"
+      ],
+      "plants": [
+        "spider-plant",
+        "dracaena",
+        "peace-lily",
+        "peperomia",
+        "parlour-palm",
+        "echeveria",
+        "moth-orchid",
+        "flamingo-flower",
+        "anthurium-warocqueanum",
+        "anthurium-clarinervium",
+        "anthurium-crystallinum",
+        "boston-fern",
+        "birds-nest-fern",
+        "pothos",
+        "monstera",
+        "heartleaf-philodendron",
+        "calathea",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "stromanthe",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes",
+        "monstera-adansonii",
+        "monstera-albo",
+        "philodendron-gloriosum",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc16",
+      "topic": "Seasons",
+      "title": "Winter care in a nutshell",
+      "body": "Winter means less light and slower growth, so water less and feed little or not at all. Overwatering is the classic winter mistake. Move plants out of dark corners to brighter spots. Keep them away from radiators, which crisp leaves, and off cold windowsills or behind closed curtains, where it gets very cold at night. Check cover pots ten minutes after watering and tip out extra water.",
+      "quiz": {
+        "q": "What's the most common winter houseplant mistake?",
+        "options": [
+          "Overwatering",
+          "Too much light",
+          "Repotting too rarely"
+        ],
+        "answer": 0,
+        "explain": "Growth slows in winter, so compost stays wet much longer."
+      },
+      "source": {
+        "name": "RHS: Winter houseplants and how to care for them",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/winter-interest-houseplants-care"
+      },
+      "tags": [
+        "winter",
+        "seasons",
+        "watering",
+        "feeding"
+      ],
+      "plants": [
+        "alocasia-polly",
+        "alocasia-zebrina",
+        "cactus",
+        "echeveria",
+        "aloe-vera",
+        "jade-plant",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "bird-of-paradise",
+        "venus-flytrap",
+        "sarracenia",
+        "mint",
+        "chives",
+        "moth-orchid",
+        "calathea",
+        "calathea-orbifolia",
+        "chinese-evergreen",
+        "dumb-cane",
+        "anthurium-clarinervium",
+        "anthurium-crystallinum",
+        "anthurium-warocqueanum",
+        "flamingo-flower",
+        "fiddle-leaf-fig",
+        "rubber-plant",
+        "nerve-plant",
+        "basil",
+        "kentia-palm",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "monstera-albo",
+        "brighamia",
+        "stromanthe",
+        "prayer-plant",
+        "boston-fern",
+        "birds-nest-fern",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "staghorn-fern",
+        "philodendron-gloriosum",
+        "nepenthes",
+        "philodendron-spiritus-sancti"
+      ]
+    },
+    {
+      "id": "tc17",
+      "topic": "Pests",
+      "title": "Fungus gnats: tiny black flies",
+      "body": "Those little flies hovering around pots are fungus gnats. Adults are just annoying; their larvae live in damp compost, mostly eating dead roots and rotting material, though they can harm seedlings and cuttings. Let the compost dry out a bit more between waterings, use compost made for houseplants and try yellow sticky traps. For a bad case, repot into fresh compost or use a biological control.",
+      "quiz": {
+        "q": "What's the simplest way to reduce fungus gnats?",
+        "options": [
+          "Water more often",
+          "Let the compost dry out more between waterings",
+          "Move the plant into the sun"
+        ],
+        "answer": 1,
+        "explain": "Gnats breed in constantly damp compost, so drier compost breaks their cycle."
+      },
+      "source": {
+        "name": "RHS: Fungus gnats (sciarid flies)",
+        "url": "https://www.rhs.org.uk/biodiversity/fungus-gnats"
+      },
+      "tags": [
+        "pests",
+        "fungus-gnats",
+        "watering"
+      ],
+      "plants": [
+        "calathea",
+        "peace-lily",
+        "boston-fern",
+        "nerve-plant",
+        "basil",
+        "parsley",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "spider-plant",
+        "birds-nest-fern"
+      ]
+    },
+    {
+      "id": "tc18",
+      "topic": "Pests",
+      "title": "Red spider mite",
+      "body": "Look for fine, pale speckling on leaves and, in bad cases, silky webbing. The mites are tiny and live mostly under leaves, so a magnifying glass helps. They love warm, dry air, especially from spring to autumn. Raising humidity and showering leaves slows them but won't clear them alone. Isolate the plant, remove badly affected leaves and consider predatory mites for stubborn outbreaks.",
+      "quiz": {
+        "q": "Spider mite numbers shoot up in which conditions?",
+        "options": [
+          "Cool and damp",
+          "Warm and dry",
+          "Dark and cold"
+        ],
+        "answer": 1,
+        "explain": "Warm, dry air speeds up their breeding, which is why heated homes can suffer."
+      },
+      "source": {
+        "name": "RHS: Glasshouse red spider mite",
+        "url": "https://www.rhs.org.uk/biodiversity/glasshouse-red-spider-mite"
+      },
+      "tags": [
+        "pests",
+        "spider-mite",
+        "humidity"
+      ],
+      "plants": [
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "prayer-plant",
+        "tradescantia",
+        "kentia-palm",
+        "arrowhead-plant",
+        "alocasia-polly",
+        "nerve-plant",
+        "dumb-cane",
+        "begonia-maculata",
+        "stromanthe",
+        "pink-princess",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc19",
+      "topic": "Pests",
+      "title": "Mealybugs",
+      "body": "Fluffy white blobs tucked into leaf joints are the giveaway, often with sticky leaves and black sooty mould. Cacti, succulents, orchids and hoyas are favourites. Quarantine new plants for about a month before they join the others. Wipe small numbers off, clear away dead leaves and keep checking, as eggs hide well. Badly infested plants are often best replaced.",
+      "quiz": {
+        "q": "How long does the RHS suggest quarantining new plants to avoid mealybugs?",
+        "options": [
+          "A day",
+          "About a month",
+          "A year"
+        ],
+        "answer": 1,
+        "explain": "A month of quarantine gives hidden mealybugs time to show themselves."
+      },
+      "source": {
+        "name": "RHS: Mealybug (glasshouse)",
+        "url": "https://www.rhs.org.uk/biodiversity/mealybug"
+      },
+      "tags": [
+        "pests",
+        "mealybug",
+        "quarantine"
+      ],
+      "plants": [
+        "snake-plant",
+        "peace-lily",
+        "monstera",
+        "jade-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "peperomia",
+        "kentia-palm",
+        "monstera-adansonii",
+        "anthurium-clarinervium",
+        "sarracenia",
+        "alocasia-zebrina",
+        "philodendron-gloriosum",
+        "nepenthes",
+        "monstera-albo",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc20",
+      "topic": "Safety",
+      "title": "Pets and plants",
+      "body": "Several of the UK's favourite houseplants are on the ASPCA's toxic list for cats and dogs, including pothos, peace lily, Swiss cheese plant, snake plant, aloe, jade plant, dracaena, philodendrons, mint and chives. Pet-friendlier picks include spider plant, Boston fern, calathea, moth orchid, parlour palm and basil. Thirsty flags each plant. If a pet chews a toxic one, call your vet straight away.",
+      "quiz": {
+        "q": "Which of these is on the ASPCA's non-toxic list?",
+        "options": [
+          "Peace lily",
+          "Spider plant",
+          "Pothos"
+        ],
+        "answer": 1,
+        "explain": "The spider plant is listed as non-toxic to cats and dogs. Peace lily and pothos are both listed as toxic."
+      },
+      "source": {
+        "name": "ASPCA: Toxic and non-toxic plants",
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants"
+      },
+      "tags": [
+        "safety",
+        "pets",
+        "toxicity"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "heartleaf-philodendron",
+        "dracaena",
+        "mint",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "tradescantia",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "parsley",
+        "chives",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "alocasia-zebrina",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "spider-plant",
+        "boston-fern",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "basil",
+        "parlour-palm",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "peperomia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "venus-flytrap",
+        "nerve-plant",
+        "stromanthe",
+        "staghorn-fern",
+        "calathea-orbifolia"
+      ]
+    },
+    {
+      "id": "tc21",
+      "topic": "Nutrition",
+      "title": "Potassium: the flower and toughness nutrient",
+      "body": "Short of potassium, mature leaves get yellow or purplish tints and brown, scorched-looking edges, and flowering is poor. Flowering plants and cacti benefit from a potassium-rich feed such as tomato or cactus feed in the growing season. Don't overdo it: too much potassium blocks magnesium uptake and can cause a magnesium shortage instead.",
+      "quiz": {
+        "q": "Too much potassium feed can trigger a shortage of which nutrient?",
+        "options": [
+          "Magnesium",
+          "Nitrogen",
+          "Iron"
+        ],
+        "answer": 0,
+        "explain": "Plants take up potassium in preference to magnesium, so heavy tomato-feed use can starve them of magnesium."
+      },
+      "source": {
+        "name": "RHS: Nutrient deficiencies",
+        "url": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+      },
+      "tags": [
+        "nutrition",
+        "potassium",
+        "deficiency",
+        "flowering"
+      ],
+      "plants": [
+        "moth-orchid",
+        "peace-lily",
+        "flamingo-flower",
+        "bird-of-paradise",
+        "hoya-carnosa",
+        "begonia-maculata",
+        "cactus",
+        "echeveria",
+        "anthurium-clarinervium",
+        "string-of-pearls",
+        "string-of-hearts",
+        "jade-plant",
+        "aloe-vera"
+      ]
+    },
+    {
+      "id": "tc22",
+      "topic": "Nutrition",
+      "title": "Magnesium: yellow between the veins",
+      "body": "Magnesium keeps leaves green. When it runs short, older leaves yellow between the veins, sometimes with reddish-brown tints, then develop dead patches and drop early. A common cause is heavy use of high-potassium feeds like tomato feed. Switch to a balanced feed. The RHS's quick fix is a leaf spray of Epsom salts (magnesium sulphate), applied in dull weather so leaves don't scorch.",
+      "quiz": {
+        "q": "Interveinal yellowing on older leaves after lots of tomato feed suggests…",
+        "options": [
+          "Magnesium deficiency",
+          "Too much light",
+          "Root rot"
+        ],
+        "answer": 0,
+        "explain": "High-potassium feeds can crowd out magnesium, causing yellowing between the veins of older leaves."
+      },
+      "source": {
+        "name": "RHS: Nutrient deficiencies",
+        "url": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+      },
+      "tags": [
+        "nutrition",
+        "magnesium",
+        "deficiency",
+        "reading-leaves"
+      ],
+      "plants": [
+        "moth-orchid",
+        "peace-lily",
+        "flamingo-flower",
+        "bird-of-paradise",
+        "hoya-carnosa",
+        "begonia-maculata",
+        "cactus",
+        "echeveria",
+        "anthurium-clarinervium",
+        "rubber-plant",
+        "fiddle-leaf-fig",
+        "monstera",
+        "pothos",
+        "heartleaf-philodendron",
+        "spider-plant",
+        "parlour-palm",
+        "kentia-palm",
+        "chinese-evergreen",
+        "dumb-cane",
+        "arrowhead-plant",
+        "thai-constellation",
+        "monstera-albo",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "basil",
+        "mint",
+        "parsley",
+        "chives"
+      ]
+    },
+    {
+      "id": "tc23",
+      "topic": "Nutrition",
+      "title": "Iron, hard water and yellow new leaves",
+      "body": "If the newest leaves turn yellow between green veins, think iron. Iron is rarely missing from compost, but alkaline conditions lock it away, so acid-loving plants watered with hard tap water or potted in the wrong compost suffer most. Manganese shortage looks similar on older leaves. Water with rainwater, use ericaceous compost where advised, and try a seaweed feed with sequestered (chelated) iron.",
+      "quiz": {
+        "q": "Yellowing between the veins of the NEWEST leaves most likely points to…",
+        "options": [
+          "Nitrogen shortage",
+          "Iron shortage",
+          "Too much potassium"
+        ],
+        "answer": 1,
+        "explain": "Iron problems show on young leaves first; nitrogen and magnesium problems start on older leaves."
+      },
+      "source": {
+        "name": "RHS: Nutrient deficiencies",
+        "url": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+      },
+      "tags": [
+        "nutrition",
+        "iron",
+        "deficiency",
+        "hard-water",
+        "chlorosis"
+      ],
+      "plants": [
+        "dracaena",
+        "parlour-palm",
+        "pothos",
+        "heartleaf-philodendron",
+        "monstera",
+        "monstera-adansonii",
+        "monstera-albo",
+        "peperomia",
+        "boston-fern",
+        "birds-nest-fern",
+        "anthurium-clarinervium",
+        "flamingo-flower",
+        "philodendron-gloriosum",
+        "philodendron-spiritus-sancti",
+        "spider-plant",
+        "peace-lily",
+        "echeveria",
+        "moth-orchid",
+        "anthurium-warocqueanum",
+        "anthurium-crystallinum",
+        "calathea",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "stromanthe",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    },
+    {
+      "id": "tc24",
+      "topic": "Nutrition",
+      "title": "Phosphorus and cold, wet roots",
+      "body": "Phosphorus helps roots and shoots grow. A shortage shows as stunted growth and dull purplish older leaves that later turn yellow. It's uncommon in compost, but cold, wet or waterlogged roots can't take it up properly. Regular liquid feeding in the growing season, and not overwatering when it's cool, usually keeps it in check.",
+      "quiz": null,
+      "source": {
+        "name": "RHS: Nutrient deficiencies",
+        "url": "https://www.rhs.org.uk/prevention-protection/nutrient-deficiencies"
+      },
+      "tags": [
+        "nutrition",
+        "phosphorus",
+        "deficiency",
+        "winter"
+      ],
+      "plants": [
+        "moth-orchid",
+        "alocasia-polly",
+        "alocasia-zebrina",
+        "calathea",
+        "calathea-orbifolia",
+        "chinese-evergreen",
+        "dumb-cane",
+        "anthurium-clarinervium",
+        "anthurium-crystallinum",
+        "anthurium-warocqueanum",
+        "flamingo-flower",
+        "fiddle-leaf-fig",
+        "rubber-plant",
+        "nerve-plant",
+        "basil",
+        "kentia-palm",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "monstera-albo",
+        "brighamia",
+        "stromanthe",
+        "prayer-plant",
+        "snake-plant",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "cactus",
+        "echeveria"
+      ]
+    },
+    {
+      "id": "tc25",
+      "topic": "Nutrition",
+      "title": "Signs of overfeeding",
+      "body": "More feed isn't better. Slow growth, brown leaf tips, wilting and a yellow-white crust on the compost or pot rim can all mean fertiliser salts have built up and are hurting the roots. Only feed plants that are actively growing. Skip feeding for newly repotted, freshly rooted, resting or wilted plants. Plants in a very bright window or under grow lights may keep growing in winter.",
+      "quiz": {
+        "q": "Which plant should you NOT feed right now?",
+        "options": [
+          "One putting out new leaves in May",
+          "One you repotted yesterday",
+          "One with flower buds in summer"
+        ],
+        "answer": 1,
+        "explain": "Nebraska Extension advises against feeding newly repotted, unrooted, dormant or wilted plants."
+      },
+      "source": {
+        "name": "Nebraska Extension: Success with houseplants, fertilisation",
+        "url": "https://lancaster.unl.edu/success-houseplants-fertilization"
+      },
+      "tags": [
+        "nutrition",
+        "overfeeding",
+        "salts",
+        "feeding"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "basil",
+        "mint",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "peperomia",
+        "tradescantia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "parsley",
+        "chives",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc26",
+      "topic": "Nutrition",
+      "title": "Flushing out salts",
+      "body": "Fertiliser and hard water leave salts behind as compost dries. Every four to six months, give pots a flush. Scrape off any white crust, taking no more than about half a centimetre of compost. Then, in a sink or bath, slowly pour through about twice the pot's volume of water and let it all drain away. Wait until the compost dries normally before watering again.",
+      "quiz": {
+        "q": "How much water does Nebraska Extension suggest using to flush a pot?",
+        "options": [
+          "A small splash",
+          "About twice the pot's volume",
+          "Exactly one cupful"
+        ],
+        "answer": 1,
+        "explain": "Using about double the pot's volume washes dissolved salts down and out of the root zone."
+      },
+      "source": {
+        "name": "Nebraska Extension: Success with houseplants, fertilisation",
+        "url": "https://lancaster.unl.edu/success-houseplants-fertilization"
+      },
+      "tags": [
+        "nutrition",
+        "flushing",
+        "salts",
+        "watering"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "basil",
+        "mint",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "chinese-money-plant",
+        "peperomia",
+        "tradescantia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "birds-nest-fern",
+        "nerve-plant",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "parsley",
+        "chives",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    },
+    {
+      "id": "tc27",
+      "topic": "Watering",
+      "title": "How to bottom water",
+      "body": "Stand pots with drainage holes in a shallow tray of 5–7cm of water for 15 to 30 minutes, until the surface feels moist. Never leave them sitting for more than an hour. It suits plants that hate wet leaves, such as begonias, dense leafy plants, and compost so dry it repels water. Water from the top now and then too, to wash salts through.",
+      "quiz": {
+        "q": "What's the maximum time Virginia Tech advises leaving a pot standing in water?",
+        "options": [
+          "About an hour",
+          "Overnight",
+          "A whole weekend"
+        ],
+        "answer": 0,
+        "explain": "Leaving pots soaking for longer than about 60 minutes risks root rot."
+      },
+      "source": {
+        "name": "Virginia Cooperative Extension: Properly watering container houseplants",
+        "url": "https://www.pubs.ext.vt.edu/content/dam/pubs_ext_vt_edu/spes/spes-804/SPES-804.pdf"
+      },
+      "tags": [
+        "watering",
+        "bottom-watering",
+        "technique"
+      ],
+      "plants": [
+        "begonia-maculata",
+        "snake-plant",
+        "peace-lily",
+        "nerve-plant",
+        "calathea",
+        "prayer-plant",
+        "moth-orchid",
+        "basil",
+        "parsley",
+        "chives",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    },
+    {
+      "id": "tc28",
+      "topic": "Repotting",
+      "title": "When to repot",
+      "body": "Look for roots circling the pot or poking out of the holes, water rushing straight through, compost that has slumped, or growth that has stalled. Lifting the plant out is the best check. Spring is the best time, when new growth helps the plant settle. Avoid autumn and winter: growth slows, fresh compost stays wet and rot becomes more likely.",
+      "quiz": {
+        "q": "What's the best season to repot most houseplants?",
+        "options": [
+          "Spring",
+          "Late autumn",
+          "Midwinter"
+        ],
+        "answer": 0,
+        "explain": "Repotting in spring lets the plant establish during its growing season."
+      },
+      "source": {
+        "name": "RHS: How to repot a plant",
+        "url": "https://www.rhs.org.uk/container-gardening/how-to-repot-a-plant"
+      },
+      "tags": [
+        "repotting",
+        "roots",
+        "seasons"
+      ],
+      "plants": [
+        "spider-plant",
+        "fiddle-leaf-fig",
+        "pothos",
+        "peace-lily",
+        "chinese-money-plant",
+        "monstera",
+        "calathea",
+        "parlour-palm"
+      ]
+    },
+    {
+      "id": "tc29",
+      "topic": "Repotting",
+      "title": "How to repot without stress",
+      "body": "Go up just one size: no more than about a third bigger, or 2.5–5cm wider for small pots. Ease the plant out, tease out circling roots and trim any soft or rotten ones. Set the top of the rootball just below the rim, fill around it with fresh peat-free compost, firm gently and water until it drains. If it can't go bigger, refresh the top layer of compost instead.",
+      "quiz": {
+        "q": "Why avoid moving a plant into a much bigger pot?",
+        "options": [
+          "The extra compost stays wet and can rot roots",
+          "Big pots block light",
+          "Plants hate change of colour"
+        ],
+        "answer": 0,
+        "explain": "Overpotting leaves lots of wet compost the roots can't use, which invites rot."
+      },
+      "source": {
+        "name": "RHS: How to repot a plant",
+        "url": "https://www.rhs.org.uk/container-gardening/how-to-repot-a-plant"
+      },
+      "tags": [
+        "repotting",
+        "roots",
+        "how-to"
+      ],
+      "plants": [
+        "spider-plant",
+        "fiddle-leaf-fig",
+        "pothos",
+        "peace-lily",
+        "chinese-money-plant",
+        "monstera",
+        "calathea",
+        "parlour-palm",
+        "snake-plant",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena"
+      ]
+    },
+    {
+      "id": "tc30",
+      "topic": "Compost",
+      "title": "Why go peat-free",
+      "body": "The RHS backs an end to peat use in gardening and stopped selling peat-based compost in 2019. Peat bogs lock up carbon for thousands of years, soak up heavy rain that could otherwise flood, and are home to rare wildlife. Most UK peatlands are already damaged, and peat regrows far too slowly to replace. Check the bag: if it doesn't say peat-free, it probably isn't.",
+      "quiz": {
+        "q": "If a compost bag doesn't say 'peat-free', the RHS says it…",
+        "options": [
+          "Is definitely peat-free",
+          "Probably contains peat",
+          "Is only for cacti"
+        ],
+        "answer": 1,
+        "explain": "Look for the words 'peat-free' on the label, as many composts still contain peat."
+      },
+      "source": {
+        "name": "RHS: Peat-free information for gardeners",
+        "url": "https://www.rhs.org.uk/advice/peat/for-gardeners"
+      },
+      "tags": [
+        "compost",
+        "peat-free",
+        "sustainability"
+      ],
+      "plants": []
+    },
+    {
+      "id": "tc31",
+      "topic": "Compost",
+      "title": "The right mix for the right plant",
+      "body": "One bag doesn't suit everything. Orchids and other epiphytes need chunky bark mixes. Monsteras and philodendrons like an airy mix with bark and grit. Cacti and succulents need gritty, fast-draining compost. Calatheas and alocasias like something that holds moisture evenly. Carnivorous plants need special low-nutrient compost. The RHS suggests local grit or gravel over perlite, which has a high environmental cost.",
+      "quiz": {
+        "q": "Which plants need a chunky, bark-based mix?",
+        "options": [
+          "Moth orchids",
+          "Basil",
+          "Spider plants"
+        ],
+        "answer": 0,
+        "explain": "Orchids grow on trees in the wild, so their roots need air and a bark-based mix."
+      },
+      "source": {
+        "name": "RHS: A guide to compost mixes for houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-media-houseplants"
+      },
+      "tags": [
+        "compost",
+        "soil",
+        "drainage"
+      ],
+      "plants": [
+        "pothos",
+        "monstera",
+        "zz-plant",
+        "chinese-evergreen",
+        "heartleaf-philodendron",
+        "peace-lily",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "dumb-cane",
+        "monstera-adansonii",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "alocasia-zebrina",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "snake-plant",
+        "aloe-vera",
+        "jade-plant",
+        "cactus",
+        "echeveria",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-kerrii",
+        "brighamia",
+        "calathea",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "stromanthe",
+        "moth-orchid",
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    },
+    {
+      "id": "tc32",
+      "topic": "Pests",
+      "title": "Scale insects and thrips",
+      "body": "Scale insects look like small brown limpets on stems and along leaf veins, often with sticky honeydew and black sooty mould. Pick or scrape them off, though big outbreaks are hard to clear. Thrips leave leaves dull or silvery with tiny dark specks, mostly underneath, and that damage never greens up again. Blue sticky traps help catch and monitor thrips.",
+      "quiz": {
+        "q": "What colour sticky trap does the RHS suggest for thrips?",
+        "options": [
+          "Blue",
+          "Red",
+          "Black"
+        ],
+        "answer": 0,
+        "explain": "Blue traps attract thrips; yellow traps are used for whitefly and fungus gnats."
+      },
+      "source": {
+        "name": "RHS: Indoor plants, sap-feeding insects",
+        "url": "https://www.rhs.org.uk/biodiversity/indoor-plants-sap-feeding-insects"
+      },
+      "tags": [
+        "pests",
+        "scale",
+        "thrips"
+      ],
+      "plants": [
+        "aloe-vera",
+        "rubber-plant",
+        "dracaena",
+        "parlour-palm",
+        "kentia-palm",
+        "birds-nest-fern",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "staghorn-fern",
+        "anthurium-crystallinum",
+        "thai-constellation",
+        "tradescantia",
+        "chinese-money-plant",
+        "peace-lily"
+      ]
+    },
+    {
+      "id": "tc33",
+      "topic": "Pests",
+      "title": "Gentle, safe pest control",
+      "body": "The RHS doesn't support routine pesticide use and suggests starting with simpler methods. Check new plants carefully and keep them apart for a while. Look under leaves regularly. Separate any plant with pests, clear away dead leaves, and wipe or rinse pests off. Small numbers are often fine to live with. Biological controls, such as predatory mites, are a safe next step.",
+      "quiz": {
+        "q": "What does the RHS suggest trying before pesticides?",
+        "options": [
+          "Nothing; spray straight away",
+          "Checking, isolating, removing pests and biological controls",
+          "Throwing out every plant"
+        ],
+        "answer": 1,
+        "explain": "Cultural and biological methods come first; pesticides only if those aren't enough."
+      },
+      "source": {
+        "name": "RHS: Indoor plants, sap-feeding insects",
+        "url": "https://www.rhs.org.uk/biodiversity/indoor-plants-sap-feeding-insects"
+      },
+      "tags": [
+        "pests",
+        "safe-treatments",
+        "quarantine"
+      ],
+      "plants": [
+        "snake-plant",
+        "peace-lily",
+        "monstera",
+        "jade-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "peperomia",
+        "kentia-palm",
+        "monstera-adansonii",
+        "anthurium-clarinervium",
+        "sarracenia",
+        "alocasia-zebrina",
+        "philodendron-gloriosum",
+        "nepenthes",
+        "monstera-albo",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia",
+        "rubber-plant",
+        "calathea",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "tradescantia",
+        "arrowhead-plant",
+        "alocasia-polly",
+        "nerve-plant",
+        "dumb-cane",
+        "begonia-maculata",
+        "stromanthe",
+        "pink-princess",
+        "calathea-orbifolia",
+        "anthurium-crystallinum",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "aloe-vera",
+        "birds-nest-fern",
+        "staghorn-fern"
+      ]
+    },
+    {
+      "id": "tc34",
+      "topic": "Temperature",
+      "title": "Cold, draughts and radiators",
+      "body": "Each plant has a minimum temperature, and tropical ones collapse or rot if it gets too cold. Cold damage shows as blackened, drooping leaves. Watch out for draughty doors, cold windowsills and closed curtains on winter nights, which trap plants in the chill. Radiators bring the opposite problem, scorching leaf edges. Cover new plants on the trip home in winter.",
+      "quiz": {
+        "q": "Where can windowsill plants get dangerously cold on winter nights?",
+        "options": [
+          "Behind closed curtains",
+          "In the middle of a heated room",
+          "On a shelf away from the window"
+        ],
+        "answer": 0,
+        "explain": "Curtains trap plants against cold glass, cut off from the room's warmth."
+      },
+      "source": {
+        "name": "RHS: How to grow houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/growing-guide"
+      },
+      "tags": [
+        "temperature",
+        "cold-damage",
+        "winter"
+      ],
+      "plants": [
+        "moth-orchid",
+        "alocasia-polly",
+        "alocasia-zebrina",
+        "calathea",
+        "calathea-orbifolia",
+        "chinese-evergreen",
+        "dumb-cane",
+        "anthurium-clarinervium",
+        "anthurium-crystallinum",
+        "anthurium-warocqueanum",
+        "flamingo-flower",
+        "fiddle-leaf-fig",
+        "rubber-plant",
+        "nerve-plant",
+        "basil",
+        "kentia-palm",
+        "pink-princess",
+        "philodendron-melanochrysum",
+        "thai-constellation",
+        "monstera-albo",
+        "brighamia",
+        "stromanthe",
+        "prayer-plant"
+      ]
+    },
+    {
+      "id": "tc35",
+      "topic": "Light",
+      "title": "Window by window",
+      "body": "Illinois Extension gives a handy guide. A north-facing window gives medium light right in front of it, but never bright light. East and west windows give bright light directly in front and medium light a little further back. A south-facing window gives direct sun at the glass and bright light up to about 1.5m away. Under grow lights, don't go over 16 hours a day.",
+      "quiz": {
+        "q": "Which window can't give bright light according to Illinois Extension?",
+        "options": [
+          "South-facing",
+          "North-facing",
+          "West-facing"
+        ],
+        "answer": 1,
+        "explain": "North windows only manage medium light, even right up close."
+      },
+      "source": {
+        "name": "Illinois Extension: Houseplant lighting",
+        "url": "https://extension.illinois.edu/houseplants/lighting"
+      },
+      "tags": [
+        "light",
+        "windows",
+        "grow-lights"
+      ],
+      "plants": [
+        "pothos",
+        "snake-plant",
+        "spider-plant",
+        "peace-lily",
+        "monstera",
+        "zz-plant",
+        "aloe-vera",
+        "jade-plant",
+        "rubber-plant",
+        "chinese-evergreen",
+        "boston-fern",
+        "heartleaf-philodendron",
+        "dracaena",
+        "calathea",
+        "moth-orchid",
+        "cactus",
+        "echeveria",
+        "basil",
+        "mint",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "bird-of-paradise",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "hoya-kerrii",
+        "prayer-plant",
+        "chinese-money-plant",
+        "peperomia",
+        "tradescantia",
+        "cast-iron-plant",
+        "kentia-palm",
+        "arrowhead-plant",
+        "flamingo-flower",
+        "alocasia-polly",
+        "venus-flytrap",
+        "birds-nest-fern",
+        "nerve-plant",
+        "dumb-cane",
+        "monstera-adansonii",
+        "begonia-maculata",
+        "parsley",
+        "chives",
+        "stromanthe",
+        "anthurium-clarinervium",
+        "pink-princess",
+        "sarracenia",
+        "staghorn-fern",
+        "alocasia-zebrina",
+        "calathea-orbifolia",
+        "philodendron-gloriosum",
+        "anthurium-crystallinum",
+        "cape-sundew",
+        "nepenthes",
+        "philodendron-melanochrysum",
+        "monstera-albo",
+        "thai-constellation",
+        "anthurium-warocqueanum",
+        "philodendron-spiritus-sancti",
+        "brighamia"
+      ]
+    },
+    {
+      "id": "tc36",
+      "topic": "Light",
+      "title": "Sun scorch",
+      "body": "Too much sun through glass bleaches leaves and leaves brown, papery patches. Shade lovers may shrivel, and variegated or white areas burn most easily because they have little or no green pigment. Move the plant out of hot midday sun or behind a sheer curtain. Scorched patches won't turn green again, but new leaves will be fine once the plant is moved.",
+      "quiz": null,
+      "source": {
+        "name": "RHS: How to help a poorly houseplant",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-help-a-poorly-houseplant"
+      },
+      "tags": [
+        "light",
+        "scorch",
+        "reading-leaves"
+      ],
+      "plants": [
+        "pothos",
+        "zz-plant",
+        "jade-plant",
+        "dracaena",
+        "string-of-pearls",
+        "string-of-hearts",
+        "cast-iron-plant",
+        "flamingo-flower",
+        "brighamia",
+        "aloe-vera",
+        "parlour-palm",
+        "fiddle-leaf-fig",
+        "chinese-money-plant",
+        "nerve-plant",
+        "pink-princess",
+        "monstera-albo",
+        "thai-constellation",
+        "spider-plant",
+        "calathea",
+        "prayer-plant"
+      ]
+    },
+    {
+      "id": "tc37",
+      "topic": "Propagation",
+      "title": "Stem cuttings in water or compost",
+      "body": "Late spring and early summer are ideal. Cut an 8–10cm piece of healthy stem just below a leaf joint, strip the lower leaves and keep two or three at the top. Stand it in a jar of water in bright, indirect light; roots usually appear in three to four weeks. Or push it into a half-and-half mix of peat-free compost and grit and keep it lightly moist.",
+      "quiz": {
+        "q": "Where should you cut when taking a stem cutting?",
+        "options": [
+          "Halfway between two leaves",
+          "Just below a leaf joint (node)",
+          "Right at the tip"
+        ],
+        "answer": 1,
+        "explain": "Roots form most readily from the node, so cut just below one."
+      },
+      "source": {
+        "name": "RHS: How to take cuttings from houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-take-cuttings-from-houseplants"
+      },
+      "tags": [
+        "propagation",
+        "cuttings"
+      ],
+      "plants": [
+        "pothos",
+        "heartleaf-philodendron",
+        "monstera",
+        "monstera-adansonii",
+        "tradescantia",
+        "arrowhead-plant",
+        "string-of-pearls",
+        "string-of-hearts",
+        "hoya-carnosa",
+        "peperomia",
+        "pink-princess",
+        "begonia-maculata",
+        "dumb-cane",
+        "rubber-plant",
+        "basil",
+        "mint"
+      ]
+    },
+    {
+      "id": "tc38",
+      "topic": "Propagation",
+      "title": "Leaves, babies and division",
+      "body": "Some plants make propagation easy. Spider plants send out babies on runners that root in water or compost. Chinese money plants push up pups around the base. Jade leaves root when laid on compost or barely touching water, then go into very gritty mix. Clump-forming plants can be split into pieces with roots and shoots each. Spring is the best time.",
+      "quiz": null,
+      "source": {
+        "name": "RHS: How to take cuttings from houseplants",
+        "url": "https://www.rhs.org.uk/plants/types/houseplants/how-to-take-cuttings-from-houseplants"
+      },
+      "tags": [
+        "propagation",
+        "division",
+        "offsets",
+        "leaf-cuttings"
+      ],
+      "plants": [
+        "spider-plant",
+        "chinese-money-plant",
+        "jade-plant",
+        "echeveria",
+        "snake-plant",
+        "zz-plant",
+        "aloe-vera",
+        "peace-lily",
+        "calathea",
+        "calathea-orbifolia",
+        "prayer-plant",
+        "cast-iron-plant",
+        "parlour-palm",
+        "chives",
+        "mint",
+        "boston-fern",
+        "venus-flytrap",
+        "sarracenia"
+      ]
+    },
+    {
+      "id": "tc39",
+      "topic": "Reading leaves",
+      "title": "Spots, blisters and curls",
+      "body": "White or straw-coloured rings usually come from cold water splashes, so use room-temperature water. Pale spots can be too much sun or leaf-shine sprays. Dark spots with yellow edges may be a fungal leaf spot. Corky, raised patches under leaves (oedema) mean the plant is taking up more water than it can use. Curling leaves often follow uneven watering or big temperature swings.",
+      "quiz": {
+        "q": "White rings on leaves after watering usually mean…",
+        "options": [
+          "Cold water splashed on the leaves",
+          "Nitrogen deficiency",
+          "Too little light"
+        ],
+        "answer": 0,
+        "explain": "Cold water on warm leaves can leave pale marks. Let water reach room temperature first."
+      },
+      "source": {
+        "name": "RHS: Leaf damage on houseplants",
+        "url": "https://www.rhs.org.uk/prevention-protection/leaf-damage-on-houseplants"
+      },
+      "tags": [
+        "reading-leaves",
+        "spots",
+        "oedema",
+        "curling"
+      ],
+      "plants": [
+        "calathea",
+        "cactus",
+        "echeveria",
+        "jade-plant",
+        "peperomia",
+        "begonia-maculata",
+        "prayer-plant",
+        "anthurium-crystallinum",
+        "stromanthe",
+        "rubber-plant",
+        "mint",
+        "fiddle-leaf-fig",
+        "chives"
+      ]
+    },
+    {
+      "id": "tc40",
+      "topic": "Carnivorous plants",
+      "title": "Rules for meat-eaters",
+      "body": "Carnivorous plants come from poor, boggy ground, so they break the usual rules. Never feed them fertiliser or plant them in normal compost; both are too rich. Use rainwater, or distilled or cooled boiled water, and stand pots in a saucer of water in the growing season. Many need a cooler, drier winter rest. Use peat-free carnivorous compost or sustainably sourced sphagnum moss.",
+      "quiz": {
+        "q": "What should you feed a Venus flytrap's compost?",
+        "options": [
+          "Balanced houseplant feed",
+          "Nothing at all",
+          "Tomato feed"
+        ],
+        "answer": 1,
+        "explain": "Carnivorous plants need no fertiliser and can be killed by it."
+      },
+      "source": {
+        "name": "RHS: How to grow carnivorous plants",
+        "url": "https://www.rhs.org.uk/plants/types/carnivorous/growing-guide"
+      },
+      "tags": [
+        "carnivorous",
+        "watering",
+        "feeding",
+        "compost"
+      ],
+      "plants": [
+        "venus-flytrap",
+        "sarracenia",
+        "cape-sundew",
+        "nepenthes"
+      ]
+    }
+  ]
+}
