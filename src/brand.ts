@@ -5,6 +5,7 @@ export const brand: Brand = {
   name: 'Thirsty',
   tagline: 'Keep your plants alive, and watch them grow',
   fonts: { display: 'Baloo2_800ExtraBold' },
+  defaultTheme: 'turquoise',
   radius: 24,
   light: {
     bg: '#F3F8EE',
