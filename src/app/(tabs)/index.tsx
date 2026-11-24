@@ -1,6 +1,7 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
 import { Modal, Text, View } from 'react-native';
+import { AdBanner } from '@/kit/ads';
 import { todayKey } from '@/kit/dates';
 import { PaywallSheet } from '@/kit/Paywall';
 import { usePremium } from '@/kit/premium';
@@ -28,7 +29,7 @@ export default function Garden() {
   const add = () => (!isPremium && g.plants.length >= FREE_PLANTS ? setPaywall(true) : router.push('/plant/new'));
 
   return (
-    <Screen testID="garden">
+    <Screen testID="garden" banner={<AdBanner placement="plants_banner" />}>
       <Row style={{ justifyContent: 'space-between' }}>
         <H1>Your garden</H1>
         <Text testID="gems" style={{ fontFamily: font.display, fontSize: 20, color: c.text }} accessibilityLabel={`${g.gems} gems`}>{`💎 ${g.gems}`}</Text>
