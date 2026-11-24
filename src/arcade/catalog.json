@@ -3,9 +3,9 @@
   "title": "Nature Arcade",
   "emoji": "🌱",
   "currency": {
-    "name": "Gems",
-    "one": "gem",
-    "emoji": "💎"
+    "name": "Dewdrops",
+    "one": "dewdrop",
+    "emoji": "💧"
   },
   "unlocks": "rare plants, pots, decorations and growth boosters for Cyphicus",
   "games": [
