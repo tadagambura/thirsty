@@ -1,0 +1,134 @@
+{
+  "app": "thirsty",
+  "title": "Nature Arcade",
+  "emoji": "🌱",
+  "currency": {
+    "name": "Gems",
+    "one": "gem",
+    "emoji": "💎"
+  },
+  "unlocks": "rare plants, pots, decorations and growth boosters for Cyphicus",
+  "games": [
+    {
+      "id": "water-dash",
+      "name": "Water Dash",
+      "emoji": "💧",
+      "mechanic": "catch",
+      "tier": "free",
+      "how": "Slide the pot to catch water drops. Dodge the chemicals.",
+      "teaches": "Plants need the right water, not just more of it.",
+      "seconds": 45,
+      "flagship": true,
+      "pack": {
+        "file": "thirsty/water-dash.bd7d479a90.json",
+        "sha256": "bd7d479a900f5ba0390c1ac8bbd1bc9fab77480b163ead32d4b6d5fb1f0fee74",
+        "bytes": 345
+      }
+    },
+    {
+      "id": "sunshine-catch",
+      "name": "Sunshine Catch",
+      "emoji": "☀️",
+      "mechanic": "catch",
+      "tier": "free",
+      "how": "Move your plant to catch sunlight. Avoid the storm clouds and frost.",
+      "teaches": "Most houseplants want bright, indirect light, not harsh midday sun.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/sunshine-catch.1d0046bf01.json",
+        "sha256": "1d0046bf0118c6e690ed902866fbc5c3457db7191a7cef273cb027636687c140",
+        "bytes": 339
+      }
+    },
+    {
+      "id": "garden-memory",
+      "name": "Garden Memory",
+      "emoji": "🌷",
+      "mechanic": "memory",
+      "tier": "free",
+      "how": "Flip cards and match each plant to its name.",
+      "teaches": "Know your plants by sight.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/garden-memory.67a0342878.json",
+        "sha256": "67a034287861d6335e4e96149b348791a44045cfbe9558bac960fe75a43a7b6f",
+        "bytes": 171
+      }
+    },
+    {
+      "id": "plant-rescue",
+      "name": "Plant Rescue",
+      "emoji": "🚑",
+      "mechanic": "quiz",
+      "tier": "arcade",
+      "how": "Read the plant's symptoms and pick the fix.",
+      "teaches": "Diagnose the most common houseplant problems.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/plant-rescue.991c334c73.json",
+        "sha256": "991c334c73cd91aff3fd6672202ccbdc3c147f2cd43647867c4f681b7ae67f43",
+        "bytes": 1760
+      }
+    },
+    {
+      "id": "bug-buster",
+      "name": "Bug Buster",
+      "emoji": "🐞",
+      "mechanic": "sort",
+      "tier": "arcade",
+      "how": "Pest or helper? Sort the garden creatures.",
+      "teaches": "Not every bug is a baddie. Some protect your plants.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/bug-buster.e41bce04a5.json",
+        "sha256": "e41bce04a537511bb277f189cf8cb442a0d2d26841ebd521214f34bb759173b1",
+        "bytes": 620
+      }
+    },
+    {
+      "id": "pot-perfect",
+      "name": "Pot Perfect",
+      "emoji": "🏺",
+      "mechanic": "quiz",
+      "tier": "arcade",
+      "how": "Match each plant to the soil and pot it loves.",
+      "teaches": "The right soil prevents most root problems.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/pot-perfect.3b51a54e3d.json",
+        "sha256": "3b51a54e3d5b2f17b26a3fa066be87964045b109b5438a50c16f8de2617d2f7b",
+        "bytes": 1095
+      }
+    },
+    {
+      "id": "root-rush",
+      "name": "Root Rush",
+      "emoji": "🌿",
+      "mechanic": "order",
+      "tier": "arcade",
+      "how": "Put the plant-care steps in the right order.",
+      "teaches": "Repotting and propagating, step by step.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/root-rush.2775680aa4.json",
+        "sha256": "2775680aa477210f5e1f2e3478bc539bbefff0b294040ae9cb1a3445ea69bf13",
+        "bytes": 505
+      }
+    },
+    {
+      "id": "seed-sequence",
+      "name": "Seed Sequence",
+      "emoji": "🌸",
+      "mechanic": "sequence",
+      "tier": "arcade_subscription",
+      "how": "Watch the garden light up, then repeat the pattern.",
+      "teaches": "Memory practice, garden style.",
+      "seconds": 45,
+      "pack": {
+        "file": "thirsty/seed-sequence.4cee1d89f0.json",
+        "sha256": "4cee1d89f0a5d81fc4a905441995e118a2d4b521a498115985c9472034dae753",
+        "bytes": 132
+      }
+    }
+  ]
+}

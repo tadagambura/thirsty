@@ -11,6 +11,8 @@ import { FREE_PLANTS } from '@/brand';
 import { useCare } from '@/components/useWater';
 import { useGarden } from '@/state/garden';
 import { league, personality } from '@/domain/library';
+import '@/arcade';
+import { ArcadeEntry } from '@/kit/arcade/screens';
 
 const dueText = (d: number) => (d > 1 ? `Water in ${d} days` : d === 1 ? 'Water tomorrow' : d === 0 ? 'Water today' : `${-d} ${d === -1 ? 'day' : 'days'} overdue`);
 
@@ -79,6 +81,7 @@ export default function Garden() {
         ) : null}
       </Modal>
       <PaywallSheet visible={paywall} onClose={() => setPaywall(false)} reason={`Free Thirsty looks after ${FREE_PLANTS} plants. Jungle at home? Premium has no limit.`} />
+      <ArcadeEntry />
     </Screen>
   );
 }

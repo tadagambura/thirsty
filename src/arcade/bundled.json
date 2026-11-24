@@ -1,0 +1,34 @@
+{
+ "water-dash": {
+  "catcher": "🪴",
+  "good": [
+   {
+    "e": "💧",
+    "label": "water"
+   },
+   {
+    "e": "🌧️",
+    "label": "rain water"
+   },
+   {
+    "e": "🍃",
+    "label": "leaf mulch"
+   }
+  ],
+  "bad": [
+   {
+    "e": "🧴",
+    "label": "bleach"
+   },
+   {
+    "e": "🧂",
+    "label": "salt"
+   },
+   {
+    "e": "🛢️",
+    "label": "oil"
+   }
+  ],
+  "tip": "Overwatering kills more houseplants than thirst. Feel the soil first: water when the top few centimetres are dry."
+ }
+}
