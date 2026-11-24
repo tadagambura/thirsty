@@ -120,7 +120,7 @@
       "name": "Seed Sequence",
       "emoji": "🌸",
       "mechanic": "sequence",
-      "tier": "arcade_subscription",
+      "tier": "arcade",
       "how": "Watch the garden light up, then repeat the pattern.",
       "teaches": "Memory practice, garden style.",
       "seconds": 45,
